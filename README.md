@@ -74,4 +74,10 @@ The `CONFIG` object in the overlay and server files controls the system logic. H
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
+![stream](https://github.com/user-attachments/assets/116de74f-970d-4cee-81c7-701f21b322ef)
+
+![jukebox](https://github.com/user-attachments/assets/e7344ba1-353f-4fb2-8b70-b999dd762b60)
+
+
+
 **73 de M0ODZ**
