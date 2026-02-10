@@ -9,6 +9,7 @@ An interactive, automated streaming suite designed for the British Amateur Telev
 * **ARRL News Ticker:** Real-time news scrolling with "Silent Key" (SK) detection that changes the UI color palette.
 * **Ham Radio Tools:** Grid square distance calculations (`!loc`) and operator alerts (`!sysop`).
 * **Standby DJ:** Automatically plays random videos after a period of inactivity to keep the stream alive.
+* **Full messaging:** You can now send and receive text messages with other users (must have a callsign).
 
 ---
 
