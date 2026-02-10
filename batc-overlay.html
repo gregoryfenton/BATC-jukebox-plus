@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BATC Overlay</title>
+    <script src="jquery.min.js"></script>
+    <script src="socket.io.js"></script>
+    <script src="obs-ws.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="header-container">
+        <div id="header-label">SYSTEM STATUS</div>
+        <div id="heart-layer"><div id="heart">&hearts;</div></div>
+        <div id="header-text-layer">
+            <div id="status"><span id="state-text">ONLINE</span><span id="viewer-count"></span><span id="latency"></span></div>
+        </div>
+    </div>
+
+    <div id="log"></div>
+
+    <div id="ticker-container">
+        <div id="ticker-label">RSS FEED</div>
+        <div id="ticker-content" class="fade-in">Synchronising the newsfeed...</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

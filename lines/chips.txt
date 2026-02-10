@@ -1,0 +1,100 @@
+🍟 JukeboxBot serves {name} a large portion of golden chips. Extra salt for better conductivity!
+🍟 {name}, here is a tray of crinkle-cut fries. They look just like a complex waveform!
+🍟 A portion of virtual chips for {name}. Perfectly fried to a 1:1 SWR.
+🍟 {name}, your Curly Fries are ready. Great for circular polarization!
+🍟 One portion of Steak-Cut chips for {name}. High-mass, high-gain potatoes.
+🍟 {name} gets a side of Shoestring fries. Fine enough for wire-wrapping.
+🍟 JukeboxBot slides a virtual basket of chips down the bar to {name}.
+🍟 {name}, here is a portion of Cheesy Chips. Extra shielding provided by the cheddar.
+🍟 A tray of Sweet Potato fries for {name}. Naturally high-bandwidth.
+🍟 {name}, here is a 'Chips and Gravy'—the classic Northern ham-shack fuel.
+🍟 {name}, I’ve prepared some Peri-Peri fries. Warning: High thermal dissipation!
+🍟 A fresh family-sized bucket of chips for {name} and the whole chat!
+🍟 {name}, your virtual chips are served in a newspaper from 1922.
+🍟 {name}, I added a dash of vinegar. Watch out for the acid-etching on the chassis!
+🍟 One portion of Garlic Chips for {name}. Keeps the QRM at bay.
+🍟 {name}, here is a 'Kernel Fry'—the fundamental building block of a side dish.
+🍟 A virtual Poutine for {name}. Gravy, cheese, and high-impedance deliciousness.
+🍟 {name}, here are some 'Wedge' chips. Perfectly angled for low-frequency gain.
+🍟 JukeboxBot presents {name} with a 'Silicon-Sliver.' 0% bitterness, 100% potato.
+🍟 {name}, a fresh portion of triple-cooked chips for you. Very artisanal.
+🍟 {name}, here is a 'Dirty Fry' platter. Loaded with extra bits and bytes.
+🍟 {name}, a 'Supreme' portion of chips. It covers the whole spectrum of condiments.
+🍟 One 'Vertical' chip for {name}. Best eaten while standing at the rack.
+🍟 {name}, here is a 'Magnetic Loop' onion ring. (Close enough to a chip!)
+🍟 One 'Log Periodic' portion of chips. A wide variety of sizes in every bite.
+🍟 {name}, here is a 'Dummy Load' fry. All the salt, zero calories.
+🍟 A tray of chips for {name} cooked in a 'Heaviside' fryer. Excellent crisp!
+🍟 {name}, here is a 'Tropospheric' meringue fry. Very light and airy.
+🍟 One 'Meteor Scatter' chip for {name}. Eat it quick before the signal fades!
+🍟 {name}, here is a 'Moonbounce' chip. It traveled 400,000km to your plate.
+🍟 A 'Satellite' portion of chips for {name}. Out of this world!
+🍟 {name}, here is a 'D-Star' fry. Digital, crisp, and perfectly sliced.
+🍟 One 'DMR' portion of chips for {name}. Time-slotted for your snack break.
+🍟 {name}, here is a 'CW' chip. - .- ... - -.-- (Tasty!)
+🍟 A 'FT8' portion of chips for {name}. Fried in exactly 15 seconds.
+🍟 {name}, here is a 'RTTY' chip. It has a rhythmic, mechanical crunch.
+🍟 One 'SSTV' chip for {name}. The flavor reveals itself line-by-line.
+🍟 {name}, here is a 'JS8Call' chip. Slow-fried for long-distance digestion.
+🍟 A 'WSPR' chip for {name}. Low energy, long-lasting satisfaction.
+🍟 {name}, here is a 'Packet' chip. Best enjoyed in small, byte-sized bites.
+🍟 One 'APRS' chip for {name}. I’ve tracked this potato from the field to the fryer.
+🍟 {name}, here is a 'High-Pass' chip. I filtered out all the burnt bits.
+🍟 A 'Low-Pass' chip for {name}. Only the soft, fluffy centers remain.
+🍟 {name}, here is a 'Band-Pass' chip. Perfectly tuned to your hunger.
+🍟 One 'Notch Filter' chip for {name}. I’ve removed the one soggy chip you dislike.
+🍟 {name}, here is an 'All-Mode' portion of chips. AM, FM, or SSB—they taste great.
+🍟 A 'QRP' portion of chips for {name}. Small size, but packs a flavorful punch.
+🍟 {name}, here is a 'QRO' chip. Extra-large with 1500 watts of seasoning!
+🍟 One 'Single Sideband' chip for {name}. A very efficient use of potato.
+🍟 {name}, here is a 'Double Sideband' portion. Twice the salt, twice the fun!
+🍟 A 'Amplitude Modulated' chip for {name}. A vintage 1920s recipe.
+🍟 {name}, here is a 'Frequency Modulated' chip. Wide-band deliciousness.
+🍟 One 'Phase Modulated' chip for {name}. A complex and shifting flavor profile.
+🍟 {name}, here is a 'Polarized' chip. Best dipped in ketchup at a 90-degree angle.
+🍟 A 'Ground Plane' tray of chips for {name}. Very stable on the desk.
+🍟 {name}, here is a 'Yagi' chip. Highly directional flavor.
+🍟 One 'Dipole' portion for {name}. A balanced snack for a balanced life.
+🍟 {name}, here is a 'G5RV' chip. It works on all hunger levels.
+🍟 A 'End-Fed' chip for {name}. Simple design, great execution.
+🍟 {name}, here is a 'Beverage' chip. It’s an extra-long, thin-cut fry.
+🍟 One 'Rhombic' chip for {name}. High gain, high crunch.
+🍟 {name}, here is a 'Sloper' chip. An angled approach to snacking.
+🍟 A 'Windom' chip for {name}. Off-center but perfectly fried.
+🍟 {name}, here is a 'Zepp' chip. A classic design for modern appetites.
+🍟 One 'Varactor' chip for {name}. The crispness varies with the temperature.
+🍟 {name}, here is a 'Zener' chip. Keeps your energy levels regulated.
+🍟 A 'Schottky' chip for {name}. Low voltage drop during dipping.
+🍟 {name}, here is a 'Darlington' chip. Two chips stuck together for maximum gain!
+🍟 One 'Pentode' chip for {name}. Five different dips on the side.
+🍟 {name}, here is a 'Triode' chip. Warm, glowing, and nostalgic.
+🍟 A 'Klystron' chip for {name}. High-velocity flavor particles!
+🍟 {name}, here is a 'Magnetron' chip. It’ll heat your palate up instantly.
+🍟 One 'Waveguide' chip for {name}. Directs the salt straight to the tongue.
+🍟 {name}, here is a 'Coaxial' chip. Shielded from outside crumbs.
+🍟 A 'Twin-Lead' chip for {name}. A bit of a throwback, but classic.
+🍟 {name}, here is a 'Ferrite' chip. Suppresses any bitter aftertaste.
+🍟 One 'Toroid' chip for {name}. The seasoning just loops forever.
+🍟 {name}, here is a 'Capacitor' chip. Stores a burst of energy for later.
+🍟 A 'Inductor' chip for {name}. Resists any drop in your mood.
+🍟 {name}, here is a 'Resistor' chip. Limits the flow of bad vibes.
+🍟 One 'Transformer' chip for {name}. Steps up your energy levels.
+🍟 {name}, here is a 'Relay' chip. You'll hear the crunch click open.
+🍟 A 'Solenoid' chip for {name}. A mechanical marvel of a side dish.
+🍟 {name}, here is a 'Crystal' chip. Extremely stable flavor frequency.
+🍟 One 'VFO' chip for {name}. Dial in the exact crunch you want.
+🍟 {name}, here is a 'PLL' chip. Locked onto the perfect temperature.
+🍟 A 'ALC' chip for {name}. Prevents your appetite from clipping.
+🍟 {name}, here is an 'AGC' chip. Automatically stays at the right level.
+🍟 One 'S-Meter' chip for {name}. Pegged at 9 plus 30dB of deliciousness!
+🍟 {name}, here is a 'Noise Blanker' chip. Shuts out the world's distractions.
+🍟 A 'Pre-Amp' chip for {name}. Boosts your afternoon signal.
+🍟 {name}, here is an 'Attenuator' chip. For when you just want a light nibble.
+🍟 One 'Panadapter' chip for {name}. See the whole spectrum of potatoes.
+🍟 {name}, here is a 'Waterfall' chip. Watch the salt fall down the sides.
+🍟 A 'Superhet' chip for {name}. Mixes perfectly for an IF of flavor.
+🍟 {name}, here is a 'Direct Conversion' chip. Straight from the fryer to you.
+🍟 One 'SDR' chip for {name}. Software-defined, Raspberry-Pi-refined.
+🍟 {name}, here is a 'Firmware' chip. Keeps your internal systems running.
+🍟 A 'Open Source' chip for {name}. Shared with everyone in the room!
+🍟 {name}, here is a final '73' chip. Best wishes and clear frequencies.

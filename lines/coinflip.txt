@@ -1,0 +1,100 @@
+🪙 {name} flips a coin... it's **Heads**!
+🪙 {name} flips a coin... it's **Tails**!
+🪙 The coin spins in the air for {name}... **Heads**!
+🪙 The coin spins in the air for {name}... **Tails**!
+🪙 It's **Heads**! Luck is on your side, {name}.
+🪙 It's **Tails**! Better luck next time, {name}.
+🪙 JukeboxBot catches the coin for {name}... it's **Heads**.
+🪙 JukeboxBot catches the coin for {name}... it's **Tails**.
+🪙 A virtual 50p piece lands on **Heads** for {name}.
+🪙 A virtual 50p piece lands on **Tails** for {name}.
+🪙 {name}, the laws of probability say: **Heads**!
+🪙 {name}, the laws of probability say: **Tails**!
+🪙 **Heads**! The frequency is clear for {name}.
+🪙 **Tails**! Signal lost in the noise for {name}.
+🪙 The coin bounced off the final amplifier and landed on **Heads**, {name}.
+🪙 The coin bounced off the antenna tuner and landed on **Tails**, {name}.
+🪙 {name}, it's **Heads**. 100% duty cycle!
+🪙 {name}, it's **Tails**. QRT for now!
+🪙 {name} gets **Heads**. That's a 5/9 flip!
+🪙 {name} gets **Tails**. 73 from the coin!
+🪙 **Heads**! {name} has the gain today.
+🪙 **Tails**! {name} hit the dummy load.
+🪙 High-speed flip for {name}: **Heads**!
+🪙 High-speed flip for {name}: **Tails**!
+🪙 {name} watches it spin... **Heads**!
+🪙 {name} watches it spin... **Tails**!
+🪙 **Heads**! Logic high (1).
+🪙 **Tails**! Logic low (0).
+🪙 The coin is feeling positive, {name}: **Heads**!
+🪙 The coin is feeling negative, {name}: **Tails**!
+🪙 **Heads**! Directional gain for {name}.
+🪙 **Tails**! Omnidirectional loss for {name}.
+🪙 It's **Heads**, {name}. The ionosphere is open!
+🪙 It's **Tails**, {name}. A total blackout!
+🪙 {name} flips a virtual gold coin... **Heads**!
+🪙 {name} flips a virtual silver coin... **Tails**!
+🪙 **Heads**! Full power, {name}!
+🪙 **Tails**! Low power mode, {name}.
+🪙 {name}, the coin landed on **Heads**. Proceed!
+🪙 {name}, the coin landed on **Tails**. Abort!
+🪙 **Heads**! {name}, you're in the green.
+🪙 **Tails**! {name}, you're in the red.
+🪙 A perfect landing on **Heads** for {name}.
+🪙 A perfect landing on **Tails** for {name}.
+🪙 {name}, it's **Heads**. Broadside to the target!
+🪙 {name}, it's **Tails**. Null in the pattern!
+🪙 **Heads**! {name}, your packet was delivered.
+🪙 **Tails**! {name}, checksum error!
+🪙 {name}, the coin says **Heads**. No jitter!
+🪙 {name}, the coin says **Tails**. Out of sync!
+🪙 **Heads**! {name} is at peak resonance.
+🪙 **Tails**! {name} is off-frequency.
+🪙 {name} gets a **Heads**. Up by 6dB!
+🪙 {name} gets a **Tails**. Down in the dirt!
+🪙 **Heads**! {name}, you've got the floor.
+🪙 **Tails**! {name}, wait for the break.
+🪙 {name}, it's **Heads**. Maximum bandwidth!
+🪙 {name}, it's **Tails**. Narrow filter applied.
+🪙 **Heads**! {name}, the solar flux is high!
+🪙 **Tails**! {name}, geomagnetic storm!
+🪙 {name} tosses the coin... **Heads**!
+🪙 {name} tosses the coin... **Tails**!
+🪙 **Heads**! {name}, it's a solid connection.
+🪙 **Tails**! {name}, timed out!
+🪙 {name}, the coin indicates **Heads**.
+🪙 {name}, the coin indicates **Tails**.
+🪙 **Heads**! {name}, stay on this channel.
+🪙 **Tails**! {name}, please QSY.
+🪙 {name}, it's **Heads**. Everything is nominal.
+🪙 {name}, it's **Tails**. System warning!
+🪙 **Heads**! {name}, your bit is set.
+🪙 **Tails**! {name}, your bit is cleared.
+🪙 {name} gets a **Heads**. No parity error.
+🪙 {name} gets a **Tails**. Frame loss!
+🪙 **Heads**! {name}, you are the master.
+🪙 **Tails**! {name}, you are the slave.
+🪙 {name}, the coin results in **Heads**.
+🪙 {name}, the coin results in **Tails**.
+🪙 **Heads**! {name}, keep the carrier up.
+🪙 **Tails**! {name}, drop the PTT.
+🪙 {name} flips... **Heads**. Roger roger!
+🪙 {name} flips... **Tails**. Negative copy!
+🪙 **Heads**! {name}, you're above the squelch.
+🪙 **Tails**! {name}, you're below the noise floor.
+🪙 {name}, it's **Heads**. Wide open path!
+🪙 {name}, it's **Tails**. Multipath fading!
+🪙 **Heads**! {name}, crystal clear.
+🪙 **Tails**! {name}, bit-crushed!
+🪙 {name} sees **Heads**. The code is valid.
+🪙 {name} sees **Tails**. Syntax error!
+🪙 **Heads**! {name}, the buffer is full.
+🪙 **Tails**! {name}, cache miss!
+🪙 {name}, the coin shows **Heads**. All systems go.
+🪙 {name}, the coin shows **Tails**. Maintenance required.
+🪙 **Heads**! {name}, you're in the clear.
+🪙 **Tails**! {name}, frequency occupied.
+🪙 {name} gets **Heads**. Signal is 5/9+10dB!
+🪙 {name} gets **Tails**. 3/1 at best.
+🪙 **Heads**! {name}, the CPU is cool.
+🪙 **Tails**! {name}, thermal throttling!

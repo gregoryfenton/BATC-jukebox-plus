@@ -1,0 +1,100 @@
+🍵 JukeboxBot pours {name} a soothing cup of Earl Grey.
+🍵 A steaming mug of English Breakfast for {name}. Perfect for a cold DX morning.
+🍵 {name}, here is a virtual Green Tea. Light bandwidth, maximum antioxidants!
+🍵 {name}, your tea is ready. Brewed with 100% pure organic silicon leaves.
+🍵 One Chamomile for {name} to help stay calm during heavy QRM.
+🍵 {name} gets a Peppermint tea. Refreshing as a clear frequency.
+🍵 JukeboxBot slides a virtual Oolong down the bar to {name}.
+🍵 {name}, here is a Rooibos. Naturally caffeine-free for those late-night ragchews.
+🍵 A delicate cup of Jasmine tea for {name}. Smells like a spring opening.
+🍵 {name}, I’ve prepared a Darjeeling. The champagne of radio beverages.
+🍵 {name}, here is a Chai Latte. Spiced enough to smooth out any phase jitter.
+🍵 A fresh pot of tea for {name} and the whole chat!
+🍵 {name}, your virtual brew is served in a commemorative BATC porcelain cup.
+🍵 {name}, I added a slice of lemon to this one. Happy listening!
+🍵 One iced peach tea for {name}, to keep the power amplifier cool.
+🍵 {name}, here is a "Net Control Special"—strong, hot, and keeps you talking.
+🍵 A virtual Lapsang Souchong for {name}. Smoky like an old tube rig.
+🍵 {name}, here is a Matcha. Vibrant green for a perfect SWR.
+🍵 JukeboxBot presents {name} with a cup of "RF-Infusion." High clarity!
+🍵 {name}, a fresh white tea for you. Very artisanal.
+🍵 {name}, here is a Ginger tea. Good for the throat after a long contest.
+🍵 {name}, a cup of Hibiscus tea. A bright red signal in the waterfall.
+🍵 One "Vertical" tea for {name}. Best enjoyed while standing.
+🍵 {name}, here is a "Magnetic Loop" tea. It's steep is small but efficient.
+🍵 One "Log Periodic" tea for {name}. Covers all flavor bands.
+🍵 {name}, here is a "Dummy Load" tea. All the warmth, none of the caffeine.
+🍵 A cup of "Heaviside" tea for {name}. Steeped until it bounces.
+🍵 {name}, here is a "Tropospheric" herbal blend. Very airy.
+🍵 One "Meteor Scatter" tea for {name}. Intense but goes quickly.
+🍵 {name}, here is a "Moonbounce" tea. The water took 2.5 seconds to pour.
+🍵 A cup of "Satellite" tea for {name}. Out of this world!
+🍵 {name}, here is a "D-Star" tea. Crystal clear digital flavor.
+🍵 One "DMR" tea for {name}. Time-slotted for perfect steeping.
+🍵 {name}, here is a "CW" tea. --- ..- .-. / - . .- (Your Tea!)
+🍵 A cup of "FT8" tea for {name}. Perfectly brewed in 15-second intervals.
+🍵 {name}, here is a "RTTY" tea. Pairs well with the sound of a teleprinter.
+🍵 One "SSTV" tea for {name}. The flavor develops line by line.
+🍵 {name}, here is a "JS8Call" tea. Slow-steeped for weak signal conditions.
+🍵 A cup of "WSPR" tea for {name}. Low temperature, long-distance flavor.
+🍵 {name}, here is a "Packet" tea. Best enjoyed in small data-sized sips.
+🍵 One "APRS" tea for {name}. I’ve tracked this tea from the kettle to your hand.
+🍵 {name}, here is a "High-Pass" tea. Filters out all the bitterness.
+🍵 A cup of "Low-Pass" tea for {name}. Only the deep, rich flavors get through.
+🍵 {name}, here is a "Band-Pass" tea. Perfectly tuned to your taste.
+🍵 One "Notch Filter" tea for {name}. Removes that one annoying aftertaste.
+🍵 {name}, here is an "All-Mode" tea. Good for any time of day.
+🍵 A cup of "QRP" tea for {name}. Small cup, big impact.
+🍵 {name}, here is a "QRO" tea. Extra strong for maximum penetration.
+🍵 One "Single Sideband" tea for {name}. Very efficient use of leaves.
+🍵 {name}, here is a "Double Sideband" tea. Twice the flavor!
+🍵 A cup of "Amplitude Modulated" tea for {name}. A classic vintage taste.
+🍵 {name}, here is a "Frequency Modulated" tea. Wide-band satisfaction.
+🍵 One "Phase Modulated" tea for {name}. Keeps things interesting.
+🍵 {name}, here is a "Polarized" tea. Best viewed through a filtered lens.
+🍵 A cup of "Ground Plane" tea for {name}. Very stable.
+🍵 {name}, here is a "Yagi" tea. Highly directional flavor.
+🍵 One "Dipole" tea for {name}. A balanced brew for a balanced life.
+🍵 {name}, here is a "G5RV" tea. Works well on all frequencies.
+🍵 A cup of "End-Fed" tea for {name}. Easy to prepare, hard to beat.
+🍵 {name}, here is a "Beverage Antenna" tea. Extra long and very quiet.
+🍵 One "Rhombic" tea for {name}. High gain, high caffeine.
+🍵 {name}, here is a "Sloper" tea. A bit of an angle to the taste.
+🍵 A cup of "Windom" tea for {name}. Off-center but delicious.
+🍵 {name}, here is a "Zepp" tea. Classic design for modern tastes.
+🍵 One "Varactor" tea for {name}. Changes flavor with the temperature.
+🍵 {name}, here is a "Zener" tea. Keeps the flavor constant.
+🍵 A cup of "Schottky" tea for {name}. Very fast response time.
+🍵 {name}, here is a "Darlington" tea. Twice the gain in every sip.
+🍵 One "Pentode" tea for {name}. Five layers of flavor.
+🍵 {name}, here is a "Triode" tea. Simple, warm, and glowing.
+🍵 A cup of "Klystron" tea for {name}. High power refreshment!
+🍵 {name}, here is a "Magnetron" tea. It'll heat you up in seconds.
+🍵 One "Waveguide" tea for {name}. Directs the flavor right to your palate.
+🍵 {name}, here is a "Coaxial" tea. Shielded from outside interference.
+🍵 A cup of "Twin-Lead" tea for {name}. A bit old school but effective.
+🍵 {name}, here is a "Ferrite" tea. Suppresses all unwanted bitterness.
+🍵 One "Toroid" tea for {name}. The flavor just keeps going around.
+🍵 {name}, here is a "Capacitor" tea. Stores energy for later.
+🍵 A cup of "Inductor" tea for {name}. Resists changes in your mood.
+🍵 {name}, here is a "Resistor" tea. Perfectly limits the flow of stress.
+🍵 One "Transformer" tea for {name}. Steps up your energy levels.
+🍵 {name}, here is a "Relay" tea. Clicks when it's ready.
+🍵 A cup of "Solenoid" tea for {name}. A very mechanical brew.
+🍵 {name}, here is a "Crystal" tea. Very stable frequency of flavor.
+🍵 One "VFO" tea for {name}. Tune it to exactly how you like it.
+🍵 {name}, here is a "PLL" tea. Locked onto the perfect temperature.
+🍵 A cup of "ALC" tea for {name}. Keeps your excitement from clipping.
+🍵 {name}, here is an "AGC" tea. Automatically adjusts to your thirst.
+🍵 One "S-Meter" tea for {name}. Pegged at 9 plus 20dB of flavor!
+🍵 {name}, here is a "Noise Blanker" tea. Shuts out the world for a moment.
+🍵 A cup of "Pre-Amp" tea for {name}. Boosts your senses.
+🍵 {name}, here is an "Attenuator" tea. For when you need to dial it back.
+🍵 One "Panadapter" tea for {name}. You can see the flavor coming.
+🍵 {name}, here is a "Waterfall" tea. Watch the colors settle.
+🍵 A cup of "Superhet" tea for {name}. Mixes perfectly for an IF of flavor.
+🍵 {name}, here is a "Direct Conversion" tea. Simple and pure.
+🍵 One "SDR" tea for {name}. Software-defined, hardware-refined.
+🍵 {name}, here is a "Firmware" tea. Keeps your internal systems updated.
+🍵 A cup of "Open Source" tea for {name}. Shared with everyone!
+🍵 {name}, here is a final cup of "73" tea. Best wishes in every sip.

@@ -1,0 +1,100 @@
+☕ JukeboxBot pours {name} a fresh cup of virtual java.
+☕ A steaming mug of dark roast for {name}. Watch out, it's hot!
+☕ {name}, here is a virtual Espresso. Maximum bandwidth, minimum sleep!
+☕ {name}, your coffee is ready. Brewed with 100% pure silicon beans.
+☕ One Cappuccino for {name}, extra foam for better signal propagation.
+☕ {name} gets a Flat White. Smooth as a 1:1 SWR.
+☕ JukeboxBot slides a virtual Americano down the bar to {name}.
+☕ {name}, here is a Mocha. The chocolate helps with the QRM.
+☕ A double shot of high-voltage caffeine for {name}!
+☕ {name}, I’ve prepared a Macchiato. Small but powerful.
+☕ {name}, here is a Latte. Creamy enough to smooth out any phase jitter.
+☕ A fresh pot of coffee for {name} and the whole chat!
+☕ {name}, your virtual brew is served in a commemorative BATC mug.
+☕ {name}, I added a dash of hazelnut to this one. Happy listening!
+☕ One iced coffee for {name}, to keep the transistors cool.
+☕ {name}, here is a "Sysadmin Special"—black coffee, no sugar, no mercy.
+☕ A virtual Irish Coffee for {name}. For those long DX nights.
+☕ {name}, here is a Cortado. Perfect balance for a perfect stream.
+☕ JukeboxBot presents {name} with a cup of "RF-Brew." High energy!
+☕ {name}, a fresh pour-over for you. Very artisanal.
+☕ {name}, here is a Turkish coffee. Strong enough to stand a spoon in!
+☕ {name}, a virtual Decaf. All the flavor, none of the jitter.
+☕ {name}, here is a Caramel Macchiato. Sweetening up the frequency.
+☕ A steaming cup of "Morning Static" blend for {name}.
+☕ {name}, here is your coffee. I used the heat from the final amplifier to brew it.
+☕ {name}, a cup of Java for a Java-scripted bot!
+☕ One virtual Ristretto for {name}. Short and punchy.
+☕ {name}, here is a mug of "Contester's Fuel." Stay awake!
+☕ {name}, I've brewed you some "Solar Flare" roast. It’s intense!
+☕ A cup of "Ground Plane" coffee for {name}. Very earthy.
+☕ {name}, here is a virtual Affogato. Coffee and ice cream!
+☕ One "Dipole" coffee for {name}—balanced and refreshing.
+☕ {name}, here is a V60 pour-over. Precision brewing for precision ears.
+☕ A mug of "Valve Glow" coffee for {name}. Warm and vintage.
+☕ {name}, here is a "Solid State" brew. Reliable and strong.
+☕ One "Propagation" coffee for {name}. Reaches the parts other brews can't.
+☕ {name}, here is a "Redline" espresso. Don't let your heart rate clip!
+☕ A cup of "Bit-Crushed" coffee for {name}. A bit lo-fi but tasty.
+☕ {name}, here is a "Blueberry Muffin" flavored coffee. Virtual treats!
+☕ One "Overclocked" roast for {name}. Processing speed +10%.
+☕ {name}, here is a "Low Pass" coffee. Very mellow.
+☕ A cup of "High Pass" coffee for {name}. Lots of brightness!
+☕ {name}, here is a "Band-Pass" brew. Only the best flavors got through.
+☕ One "Notch Filter" coffee for {name}. I removed the bitterness.
+☕ {name}, here is a "White Noise" blend. Very relaxing.
+☕ A steaming cup of "Pink Noise" for {name}. A bit more bassy.
+☕ {name}, here is a "Thermal Drift" coffee. It changes flavor as it cools!
+☕ One "Packet Loss" coffee for {name}. Wait... where did half of it go?
+☕ {name}, here is a "Buffer Bloat" coffee. Extra large serving!
+☕ A cup of "Kernel Panic" coffee for {name}. Warning: Might cause jitters.
+☕ {name}, here is a "Root Access" brew. Pure power.
+☕ One "Ping" coffee for {name}. Low latency, high impact.
+☕ {name}, here is a "Null Pointer" coffee. (Wait, the cup is empty!)
+☕ A cup of "Stack Overflow" for {name}. Careful, it's spilling!
+☕ {name}, here is a "Cloud Native" coffee. Light and airy.
+☕ One "Firewall" coffee for {name}. Extra spicy!
+☕ {name}, here is a "Deep Learning" brew. It knows exactly how you like it.
+☕ A cup of "Neural Network" coffee for {name}. Complex and layered.
+☕ {name}, here is a "Big Data" coffee. It’s a 2-gallon bucket.
+☕ One "Blockchain" coffee for {name}. Every sip is verified.
+☕ {name}, here is a "Quantum" coffee. It's both hot and cold until you sip it.
+☕ A cup of "Legacy Code" coffee for {name}. Bitter but functional.
+☕ {name}, here is a "Refactored" brew. Same beans, better taste.
+☕ One "Open Source" coffee for {name}. The recipe is public!
+☕ {name}, here is a "Proprietary" blend. I can't tell you what's in it.
+☕ A cup of "Beta" coffee for {name}. Let me know if you find any bugs.
+☕ {name}, here is a "Patch Tuesday" brew. Fixed the aftertaste!
+☕ One "Dark Mode" coffee for {name}. As black as my terminal.
+☕ {name}, here is a "Light Mode" coffee. Too bright!
+☕ A cup of "VGA" coffee for {name}. Only 16 colors of flavor.
+☕ {name}, here is a "4K" coffee. Every flavor note is crystal clear.
+☕ One "Analog" coffee for {name}. No digital processing involved.
+☕ {name}, here is a "SDR" coffee. Software Defined Roast.
+☕ A cup of "QRP" coffee for {name}. Small power, big distance.
+☕ {name}, here is a "QRO" coffee. 1500 Watts of caffeine!
+☕ One "Long Wire" coffee for {name}. The line for this was huge.
+☕ {name}, here is a "Yagi" coffee. Very directional flavor.
+☕ A cup of "Vertical" coffee for {name}. Great for low-angle sipping.
+☕ {name}, here is a "Magnetic Loop" coffee. It's small but efficient.
+☕ One "Log Periodic" coffee for {name}. Covers all flavor bands.
+☕ {name}, here is a "Dummy Load" coffee. No caffeine, just heat.
+☕ A cup of "Heaviside" coffee for {name}. Bounces right to your soul.
+☕ {name}, here is a "Tropospheric" brew. Very airy.
+☕ One "Meteor Scatter" coffee for {name}. Intense but brief.
+☕ {name}, here is a "Moonbounce" coffee. It took a while to get here.
+☕ A cup of "Satellite" coffee for {name}. Out of this world!
+☕ {name}, here is a "D-Star" coffee. A bit compressed but clear.
+☕ One "DMR" coffee for {name}. Digital and efficient.
+☕ {name}, here is a "CW" coffee. ... --- ... (Save Our Senses!)
+☕ A cup of "FT8" coffee for {name}. I brewed it in exactly 15 seconds.
+☕ {name}, here is a "RTTY" coffee. It makes a clicking sound when you drink.
+☕ One "SSTV" coffee for {name}. It takes a few minutes to reveal the flavor.
+☕ {name}, here is a "JS8Call" coffee. Slow but reliable.
+☕ A cup of "WSPR" coffee for {name}. Very low power, very long lasting.
+☕ {name}, here is a "Packet" coffee. Delivered in small sips.
+☕ One "APRS" coffee for {name}. I know exactly where you're drinking this.
+☕ {name}, here is a "Winlink" coffee. Essential for emergencies.
+☕ A cup of "Pactor" coffee for {name}. Expensive but fast.
+☕ {name}, here is a "VarAC" coffee. The modern way to brew.
+☕ One "Grid Square" coffee for {name}. Brewed locally in {homeGrid}.

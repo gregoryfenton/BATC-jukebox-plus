@@ -1,0 +1,116 @@
+🚪 Welcome to the show, {name}! Type !help to see what I can do.
+🚪 Greetings {name}! Glad you could make it.
+🚪 A new challenger appears! Welcome, {name}.
+👋 Hey {name}, welcome to the Jukebox room!
+🤝 Look who it is! Welcome {name}!
+🚪 Nice of you to drop by, {name}!
+🤝 Hello {name}! The Jukebox is ready for your requests.
+✨ Welcome aboard, {name}! Enjoy the tunes.
+👋 Salutations {name}! Use !list to see some options.
+👋 Good to see you, {name}!
+🚪 Welcome {name}! Pick a track and let's get loud.
+🤝 Yo {name}! Welcome to the party.
+🚪 Hi {name}! Feel free to use !play [number] anytime.
+🚪 Welcome {name}, the jukebox is all yours!
+🚪 Glad you're here, {name}. Happy listening!
+👋 Welcome to the frequency, {name}! You're 5 by 9.
+🤝 Signal acquired! Hello, {name}.
+👋 {name} has joined the net. Break-break!
+🚪 Glad to have you on the waterfall, {name}.
+🚪 Checking you into the log, {name}.
+✨ {name} is coming in loud and clear!
+👋 Welcome, {name}. Watch out for the static.
+✨ Your signal just hit the antenna, {name}!
+🚪 Adjusting the squelch for {name}. Welcome!
+👋 {name}, you're officially on the air.
+👋 A new station is calling... it's {name}!
+🚪 Welcome, {name}. The bands are open for you.
+✨ {name} is now 100% readable.
+✨ {name} has entered the shack. Pull up a chair.
+✨ Welcome, {name}. Your S-meter is pinning!
+🤝 {name}, glad you found our frequency.
+🚪 Welcome to the Jukebox, {name}.
+🤝 {name}, you're Q5 and solid.
+🚪 Acknowledged, {name}. Welcome to the stream.
+✨ {name}, you've got a great signal today.
+✨ Welcome, {name}. We've been expecting you.
+🚪 {name}, you're just in time for the skip.
+🤝 Welcome, {name}. No QRM here.
+🚪 {name}, you're sounding like a local.
+🚪 {name} is in the house. 73!
+👋 Welcome, {name}. The coffee is hot.
+🚪 {name}, you're a beacon of light in the static.
+👋 Welcome, {name}. Your modulation is perfect.
+✨ {name}, thanks for checking in.
+👋 Welcome, {name}. May your SWR be low.
+👋 {name}, you're the strongest signal on the band.
+✨ Welcome, {name}. Let's make some noise.
+✨ {name}, you're coming through the gray line.
+🚪 Welcome, {name}. The ionosphere loves you.
+🚪 {name}, you're a rare DX contact!
+👋 Welcome, {name}. Put it in the log.
+🚪 {name}, you're clear as a bell.
+✨ Welcome, {name}. Tuning you in now.
+👋 {name}, you're part of the team now.
+🤝 Welcome, {name}. The relay is closed.
+👋 {name}, you're on the map.
+✨ Welcome, {name}. The signal is true.
+✨ {name}, you're in phase.
+🚪 Welcome, {name}. The gain is up.
+🚪 {name}, you're peak-to-peak.
+✨ Welcome, {name}. The carrier is solid.
+👋 {name}, you're wideband.
+🤝 Welcome, {name}. The spectrum is full.
+✨ {name}, you're a high-pass filter.
+✨ Welcome, {name}. The loop is locked.
+👋 {name}, you're resonant.
+✨ Welcome, {name}. The circuit is complete.
+🚪 {name}, you're powered up.
+✨ Welcome, {name}. The tubes are warm.
+🚪 {name}, you're glowing.
+👋 Welcome, {name}. The fan is spinning.
+👋 {name}, you're cooling down.
+🤝 Welcome, {name}. The drive is active.
+✨ {name}, you're mounted.
+🤝 Welcome, {name}. The script is running.
+👋 {name}, you're compiled.
+🤝 Welcome, {name}. The logic is sound.
+👋 {name}, you're bit-perfect.
+👋 Welcome, {name}. The stream is flowing.
+👋 {name}, you're in the buffer.
+🚪 Welcome, {name}. The packet is delivered.
+🚪 {name}, you're verified.
+🚪 Welcome, {name}. The hash matches.
+👋 {name}, you're secure.
+🤝 Welcome, {name}. The port is open.
+🤝 {name}, you're connected.
+👋 Welcome, {name}. The handshake is done.
+👋 {name}, you're synced.
+🚪 Welcome, {name}. The clock is ticking.
+✨ {name}, you're on time.
+🤝 Welcome, {name}. The future is here.
+👋 {name}, you're a legend.
+🚪 Welcome, {name}. The hero we needed.
+🤝 {name}, you're the star.
+👋 Welcome, {name}. The main event.
+✨ {name}, you're the VIP.
+✨ Welcome, {name}. The guest of honor.
+🚪 {name}, you're the boss.
+👋 Welcome, {name}. The master.
+👋 {name}, you're the pilot.
+✨ Welcome, {name}. The navigator.
+🤝 {name}, you're the engineer.
+🚪 Welcome, {name}. The operator.
+✨ {name}, you're the fan.
+🚪 Welcome, {name}. The friend.
+🤝 {name}, you're the one.
+👋 Welcome, {name}. The best.
+🚪 {name}, you're {name}.
+👋 Welcome, {name}. Just {name}.
+🤝 Welcome, {name}. Finally.
+🤝 Welcome, {name}. At last.
+✨ Welcome, {name}. Hello.
+🤝 Welcome, {name}. Hi.
+🚪 Welcome, {name}. Hey.
+🚪 Welcome, {name}. Yo.
+🚪 Welcome, {name}.

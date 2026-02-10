@@ -1,0 +1,100 @@
+🍕 JukeboxBot delivers a piping hot Pepperoni pizza to {name}. Watch the grease on the faders!
+🍕 {name}, here is a 'Margherita'—as classic and reliable as a dipole antenna.
+🍕 One 'Quattro Formaggi' for {name}. Four cheeses for four distinct signal paths!
+🍕 {name}, I've prepared a Meat Feast. High-gain protein for a long contest night.
+🍕 A virtual Hawaiian pizza for {name}. Tropical propagation in every bite!
+🍕 {name} gets a Veggie Supreme. Multi-band toppings for a balanced diet.
+🍕 JukeboxBot slides a deep-dish pizza down the bar to {name}.
+🍕 {name}, here is a BBQ Chicken pizza. Smoky flavor like a vintage tube rig.
+🍕 A spicy 'Inferno' pizza for {name}. Guaranteed to heat up your heat sinks!
+🍕 {name}, here is a thin-crust pizza. Low profile for stealthy snacking.
+🍕 {name}, I’ve added extra olives to this one. Small, black, and looks like ferrite beads.
+🍕 A fresh party-sized pizza for {name} and the whole chat!
+🍕 {name}, your virtual pizza is served in a box made of recycled QSL cards.
+🍕 {name}, I added some spicy jalapeños. Spurious emissions of heat!
+🍕 One stuffed-crust pizza for {name}. More storage capacity for cheese!
+🍕 {name}, here is a 'Kernel Pizza'—the fundamental building block of dinner.
+🍕 A virtual Calzone for {name}. All the flavor is shielded inside!
+🍕 {name}, here is a Breakfast Pizza. Egg and bacon for those 5 AM grey-line contacts.
+🍕 JukeboxBot presents {name} with a 'Silicon-Slab.' 0% bitterness, 100% mozzarella.
+🍕 {name}, a fresh wood-fired pizza for you. Very artisanal.
+🍕 {name}, here is a Seafood pizza. Best enjoyed near the salt water for better ground gain.
+🍕 {name}, a 'Supreme' pizza with everything. It covers the whole spectrum of flavor.
+🍕 One 'Vertical' pizza for {name}. Best eaten while standing at the antenna tuner.
+🍕 {name}, here is a 'Magnetic Loop' pizza. Perfectly circular and very efficient.
+🍕 One 'Log Periodic' pizza for {name}. A wide variety of toppings in every slice.
+🍕 {name}, here is a 'Dummy Load' pizza. All the flavor, zero calories.
+🍕 A pizza for {name} baked in a 'Heaviside' oven. Excellent crust rise!
+🍕 {name}, here is a 'Tropospheric' pizza. Very light, airy, and bubbly.
+🍕 One 'Meteor Scatter' pizza for {name}. Eat it quick before the signal fades!
+🍕 {name}, here is a 'Moonbounce' pizza. It took 2.5 seconds to deliver.
+🍕 A 'Satellite' pizza for {name}. Out of this world!
+🍕 {name}, here is a 'D-Star' pizza. Digital, crisp, and perfectly sliced.
+🍕 One 'DMR' pizza for {name}. Time-slotted for your dinner break.
+🍕 {name}, here is a 'CW' pizza. - .- ... - -.-- (Tasty!)
+🍕 A 'FT8' pizza for {name}. Baked in exactly 15 seconds.
+🍕 {name}, here is a 'RTTY' pizza. It has a rhythmic, mechanical crunch.
+🍕 One 'SSTV' pizza for {name}. The toppings reveal themselves line-by-line.
+🍕 {name}, here is a 'JS8Call' pizza. Slow-baked for long-distance digestion.
+🍕 A 'WSPR' pizza for {name}. Low energy, long-lasting satisfaction.
+🍕 {name}, here is a 'Packet' pizza. Best enjoyed in small, byte-sized slices.
+🍕 One 'APRS' pizza for {name}. I’ve tracked this delivery from the oven to you.
+🍕 {name}, here is a 'High-Pass' pizza. I filtered out all the mushrooms.
+🍕 A 'Low-Pass' pizza for {name}. Only the deep, rich flavors remain.
+🍕 {name}, here is a 'Band-Pass' pizza. Perfectly tuned to your hunger.
+🍕 One 'Notch Filter' pizza for {name}. I’ve removed the one topping you dislike.
+🍕 {name}, here is an 'All-Mode' pizza. AM, FM, or SSB—it tastes great in all of them.
+🍕 A 'QRP' pizza for {name}. Small size, but packs a flavorful punch.
+🍕 {name}, here is a 'QRO' pizza. Extra-large with 1500 watts of flavor!
+🍕 One 'Single Sideband' pizza for {name}. A very efficient use of dough.
+🍕 {name}, here is a 'Double Sideband' pizza. Twice the cheese, twice the fun!
+🍕 A 'Amplitude Modulated' pizza for {name}. A vintage recipe from 1920.
+🍕 {name}, here is a 'Frequency Modulated' pizza. Wide-band deliciousness.
+🍕 One 'Phase Modulated' pizza for {name}. A complex and shifting flavor profile.
+🍕 {name}, here is a 'Polarized' pizza. Best viewed through a glass of soda.
+🍕 A 'Ground Plane' pizza for {name}. Perfectly flat and very stable.
+🍕 {name}, here is a 'Yagi' pizza. Highly directional flavor.
+🍕 One 'Dipole' pizza for {name}. A balanced meal for a balanced life.
+🍕 {name}, here is a 'G5RV' pizza. It works on all frequencies.
+🍕 A 'End-Fed' pizza for {name}. Simple design, great execution.
+🍕 {name}, here is a 'Beverage' pizza. It’s a very long rectangular pizza.
+🍕 One 'Rhombic' pizza for {name}. High gain, high crunch.
+🍕 {name}, here is a 'Sloper' pizza. An angled approach to dinner.
+🍕 A 'Windom' pizza for {name}. Off-center but perfectly baked.
+🍕 {name}, here is a 'Zepp' pizza. A classic design for modern appetites.
+🍕 One 'Varactor' pizza for {name}. The crust thickness varies with the temperature.
+🍕 {name}, here is a 'Zener' pizza. Keeps your hunger levels regulated.
+🍕 A 'Schottky' pizza for {name}. Low voltage drop during consumption.
+🍕 {name}, here is a 'Darlington' pizza. Two pizzas stacked on top of each other!
+🍕 One 'Pentode' pizza for {name}. Five layers of delicious toppings.
+🍕 {name}, here is a 'Triode' pizza. Warm, glowing, and nostalgic.
+🍕 A 'Klystron' pizza for {name}. High-velocity flavor particles!
+🍕 {name}, here is a 'Magnetron' pizza. It’ll heat your palate up instantly.
+🍕 One 'Waveguide' pizza for {name}. Directs the cheese straight to the tongue.
+🍕 {name}, here is a 'Coaxial' pizza. Shielded from outside crumbs.
+🍕 A 'Twin-Lead' pizza for {name}. A bit of a throwback, but classic.
+🍕 {name}, here is a 'Ferrite' pizza. Suppresses any bitter aftertaste.
+🍕 One 'Toroid' pizza for {name}. The pepperoni just goes round and round.
+🍕 {name}, here is a 'Capacitor' pizza. Stores a burst of energy for later.
+🍕 A 'Inductor' pizza for {name}. Resists any drop in your energy.
+🍕 {name}, here is a 'Resistor' pizza. Limits the flow of bad moods.
+🍕 One 'Transformer' pizza for {name}. Steps up your energy levels.
+🍕 {name}, here is a 'Relay' pizza. You'll hear the box click open.
+🍕 A 'Solenoid' pizza for {name}. A mechanical marvel of a meal.
+🍕 {name}, here is a 'Crystal' pizza. Extremely stable flavor frequency.
+🍕 One 'VFO' pizza for {name}. Dial in the exact toppings you want.
+🍕 {name}, here is a 'PLL' pizza. Locked onto the perfect temperature.
+🍕 A 'ALC' pizza for {name}. Prevents your appetite from clipping.
+🍕 {name}, here is an 'AGC' pizza. Automatically stays at the right level.
+🍕 One 'S-Meter' pizza for {name}. Pegged at 9 plus 30dB of deliciousness!
+🍕 {name}, here is a 'Noise Blanker' pizza. Shuts out the world's distractions.
+🍕 A 'Pre-Amp' pizza for {name}. Boosts your evening signal.
+🍕 {name}, here is an 'Attenuator' pizza. For when you just want a small slice.
+🍕 One 'Panadapter' pizza for {name}. See the whole spectrum of toppings.
+🍕 {name}, here is a 'Waterfall' pizza. Watch the cheese melt down.
+🍕 A 'Superhet' pizza for {name}. Mixes perfectly for an IF of flavor.
+🍕 {name}, here is a 'Direct Conversion' pizza. Straight from the oven to you.
+🍕 One 'SDR' pizza for {name}. Software-defined, Raspberry-Pi-refined.
+🍕 {name}, here is a 'Firmware' pizza. Keeps your internal systems running.
+🍕 A 'Open Source' pizza for {name}. Free for everyone to enjoy!
+🍕 {name}, here is a final '73' pizza. Best wishes and clear frequencies.

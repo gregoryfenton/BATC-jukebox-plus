@@ -1,0 +1,100 @@
+📡 {name} is adjusting the station dipole. SWR is now a perfect 1.0:1!
+📡 {name} accidentally stood on a radial. The antenna is now directional toward the floor.
+📡 JukeboxBot hands {name} a roll of self-amalgamating tape to fix a leaky connector.
+📡 {name} is hand-tuning the mag-loop. Careful of the high voltage!
+📡 {name} adjusted the rotator. The beam is now pointing directly at {name}'s QTH!
+📡 A sudden gust of wind moved the mast, but {name} saved it with a well-placed guy wire.
+📡 {name} is pruning the 40m wire. Snip snip! Resonance reached.
+📡 {name} applied some conductive grease to the joints. Everything is sliding smoothly now.
+📡 {name} is trying to use the garden fence as an antenna. Surprisingly, it works!
+📡 JukeboxBot watches as {name} attempts to tune a wet piece of string. 5/9 signal!
+📡 {name} is checking the grounding. Ground loops eliminated!
+📡 {name} found a loose PL-259. A quick tighten and the signal is booming.
+📡 {name} is deploying a kite antenna. Watch out for those power lines!
+📡 {name} is installing a new Balun. Impedance matched!
+📡 {name} just upgraded the station to a 4-element Yagi. Watch the gain soar!
+📡 {name} is re-tensioning the halyards. No more sagging wires for this station.
+📡 JukeboxBot assists {name} in deploying a long-wire antenna across the chat room.
+📡 {name} is experimenting with a beverage antenna. It's very long and very quiet.
+📡 {name} is checking for RF in the shack. Everything is shielded and safe!
+📡 {name} just calculated the velocity factor for the new coax. Precision engineering!
+📡 {name} is using an antenna analyzer. The Smith chart looks like a work of art.
+📡 {name} is painting the antenna "stealth grey" to hide it from the neighbors.
+📡 {name} is adding a loading coil. Physical length reduced, electrical length perfect!
+📡 {name} is checking the SWR on 10GHz. It's a bit touchy, but {name} has steady hands.
+📡 {name} is clearing a bird's nest off the boom. The birds are not happy.
+📡 {name} just installed a remote tuner at the base of the mast. Luxury!
+📡 {name} is adjusting the gamma match. A bit of sliding and... perfect!
+📡 {name} is verifying the front-to-back ratio. The back is very quiet indeed.
+📡 {name} is aiming the dish at the QO-100 satellite. Signal locked!
+📡 {name} is clearing ice off the elements. Brrr!
+📡 {name} is checking the polarization. {name} decided on circular for this pass.
+📡 {name} is tightening the U-bolts. That antenna isn't going anywhere.
+📡 {name} is measuring the take-off angle. Low enough for some serious DX!
+📡 {name} just added a pre-amp at the masthead. The noise floor just dropped.
+📡 {name} is deploying a tactical "Sloper" for the evening skip.
+📡 {name} is using a ladder-line feed. Old school and low loss!
+📡 {name} is waterproofing the junction box. No moisture getting in there.
+📡 {name} is testing a "Cobra" ultra-lite. High stealth, high performance.
+📡 {name} is adjusting the counterpoise. The whole shack is now at ground potential.
+📡 {name} is looking for a resonant spot on the guttering. IO94gt is loud and clear!
+📡 {name} is sweeping the bands with the VNA. No dips found!
+📡 {name} is installing a lightning arrestor. Safety first!
+📡 {name} is calculating the wind loading. The mast is rated for it... hopefully.
+📡 {name} is adjusting the phasing harness. The pattern is now perfectly shaped.
+📡 {name} is trying a "Moxon" rectangle. Great gain in a small space!
+📡 {name} is deploying a vertical. {name} added 32 radials for maximum efficiency.
+📡 {name} is checking the air-core choke. No common-mode current here!
+📡 {name} is trying a "Delta Loop." Very quiet and very effective.
+📡 {name} is looking for the sweet spot on the screwdriver antenna.
+📡 {name} just built a "Slim Jim" out of some spare twin-lead.
+📡 {name} is checking the feed-point resistance. Exactly 50 ohms!
+📡 {name} is cleaning the contacts on the antenna switch. No more crackling.
+📡 {name} is trying to tune the tower itself. It's a giant vertical!
+📡 {name} is adjusting the tilt-over mast. {name} makes it look easy.
+📡 {name} is using a drone to pull the wire over the top of the tree.
+📡 {name} is measuring the standing wave on the 2m J-pole. 1.2:1. Not bad!
+📡 {name} is trying a "Windom" off-center fed dipole. 
+📡 {name} is checking the trap resonance. Both bands are perfectly tuned.
+📡 {name} is adjusting the dish focal point. A few millimeters makes all the difference.
+📡 {name} is deploying a "Bobtail Curtain" for some massive low-band gain.
+📡 {name} is verifying the beamwidth. Narrow enough to pinpoint a single station.
+📡 {name} is trying a "Spiderbeam." It looks complex, but {name} has it handled.
+📡 {name} is checking the VSWR on the microwave link. Solid as a rock.
+📡 {name} is adjusting the hairpin match. Inductance added, SWR nulled!
+📡 {name} is deploying a "Flag" antenna for low-noise RX.
+📡 {name} is measuring the coax loss. {name} decided it's time for some LMR-400.
+📡 {name} is installing a "Bird" wattmeter. Precision measurements only.
+📡 {name} is adjusting the cross-polarization on the satellite rig.
+📡 {name} is trying an "E-H" antenna. Small but mysterious!
+📡 {name} is checking the continuity of the shield. Solid ground achieved.
+📡 {name} is deploying a "Doublet" for all-band coverage.
+📡 {name} is using a "Transmatch." If it's metal, {name} can tune it!
+📡 {name} is checking the radiation pattern. It's a perfect cardioid.
+📡 {name} is adjusting the "Squalo" on the car roof. 
+📡 {name} is trying a "Z-Match" tuner. A classic piece of shack gear.
+📡 {name} is measuring the dielectric constant of the new insulator.
+📡 {name} is adjusting the "Isopole." Very clean radiation!
+📡 {name} is trying a "Skeleton Slot" antenna for the UHF bands.
+📡 {name} is checking the "Q" factor of the loading coil. High and mighty!
+📡 {name} is deploying a "Zepp" antenna from the window.
+📡 {name} is adjusting the "Bi-Square" loop. 
+📡 {name} is trying a "Discone" for some wide-band listening.
+📡 {name} is checking the balance on the "G5RV."
+📡 {name} is adjusting the "T-Match" on the beam.
+📡 {name} is deploying a "Half-Square" for the low bands.
+📡 {name} is trying a "V-Beam" for some extreme gain.
+📡 {name} is checking the "Mutual Coupling" between the elements.
+📡 {name} is adjusting the "Quad" loop. The "King of Antennas!"
+📡 {name} is trying a "Halo" for 6m mobile work.
+📡 {name} is checking the "Aperture" of the horn antenna.
+📡 {name} is adjusting the "Reflector" spacing. F/B ratio increased!
+📡 {name} is trying a "Sterba Curtain." That's a lot of wire!
+📡 {name} is checking the "Velocity Factor" of the window line.
+📡 {name} is adjusting the "Active" whip antenna.
+📡 {name} is trying a "Helical" antenna for the satellite downlink.
+📡 {name} is checking the "Skin Effect" on the copper tubing.
+📡 {name} is adjusting the "Matching Section" for the VHF array.
+📡 {name} is trying a "Biconical" for EMI testing.
+📡 {name} is checking the "Radiation Resistance." Looking good!
+📡 {name} is sending a final "73" up the feedline. Clear frequencies ahead!

@@ -1,0 +1,7 @@
+📋 --- M0ODZ STATION CANTEEN MENU ---
+📋 HOT DRINKS: !coffee, !tea
+📋 COLD DRINKS: !juice
+📋 SNACKS: !cookie, !biscuit, !cake
+📋 MAINS & SIDES: !pizza, !burger, !chips
+📋 STATION VIBES: !antenna, !valve, !shackcat, !component
+📋 Type a command to be served! (e.g., !coffee)

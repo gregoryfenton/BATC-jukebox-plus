@@ -1,0 +1,100 @@
+🍰 JukeboxBot serves {name} a slice of Victoria Sponge. The classic British station staple.
+🍰 {name}, here is a slice of Chocolate Fudge cake. Dense and rich like a heavy carrier.
+🍰 A piece of Lemon Drizzle for {name}. Zesty enough to clear any static!
+🍰 {name}, your virtual Carrot Cake is ready. Good for the eyes during late-night shack sessions.
+🍰 One slice of Red Velvet for {name}. A bright peak on the spectrum analyzer.
+🍰 {name} gets a piece of Cheesecake. Smooth as a 1:1 SWR on all bands.
+🍰 JukeboxBot slides a virtual Coffee Cake down the bar to {name}.
+🍰 {name}, here is a Battenberg cake. It looks like a digital logic grid!
+🍰 A slice of Fruitcake for {name}. Dense enough to stop an RF leak.
+🍰 {name}, I’ve prepared a Swiss Roll. Perfectly wound like a high-Q coil.
+🍰 {name}, here is a Birthday Cake. Celebrating another year of clear frequencies!
+🍰 A fresh tiered cake for {name} and the whole chat!
+🍰 {name}, your virtual slice is served on a commemorative BATC saucer.
+🍰 {name}, I added some silver sprinkles. High-conductivity toppings!
+🍰 One iced cupcake for {name}, topped with a tiny edible antenna.
+🍰 {name}, here is a "Kernel Cake"—the core of any good celebration.
+🍰 A virtual Black Forest Gateau for {name}. Layers of flavor and high-gain cream.
+🍰 {name}, here is a slice of Dundee cake. Topped with almonds in a radial pattern.
+🍰 JukeboxBot presents {name} with a "Silicon-Sponge." 0% bitterness, 100% sweetness.
+🍰 {name}, a fresh hand-decorated cake for you. Very artisanal.
+🍰 {name}, here is a Marble Cake. Swirled like a complex phase-modulated signal.
+🍰 {name}, a "Supreme" slice with extra frosting. It covers the whole bandwidth.
+🍰 One "Vertical" cake for {name}. Best eaten while standing at the antenna mast.
+🍰 {name}, here is a "Magnetic Loop" donut. (A cake-circle with high efficiency!)
+🍰 One "Log Periodic" cake for {name}. Multiple layers for multiple flavors.
+🍰 {name}, here is a "Dummy Load" cake. All the sugar, zero calories.
+🍰 A slice of cake for {name} baked in a "Heaviside" oven. Excellent rise!
+🍰 {name}, here is a "Tropospheric" Meringue. Very light and airy.
+🍰 One "Meteor Scatter" cake for {name}. Eat it quick before the signal fades!
+🍰 {name}, here is a "Moonbounce" cake. It took 2.5 seconds to arrive.
+🍰 A "Satellite" cake for {name}. Out of this world!
+🍰 {name}, here is a "D-Star" cake. Digital, crisp, and perfectly sliced.
+🍰 One "DMR" cake for {name}. Time-slotted for your afternoon tea break.
+🍰 {name}, here is a "CW" cake. - .- ... - -.-- (Tasty!)
+🍰 A "FT8" cake for {name}. Baked in exactly 15 seconds.
+🍰 {name}, here is a "RTTY" cake. It has a rhythmic, mechanical crunch.
+🍰 One "SSTV" cake for {name}. The frosting reveals itself line-by-line.
+🍰 {name}, here is a "JS8Call" cake. Slow-baked for long-distance digestion.
+🍰 A "WSPR" cake for {name}. Low power, long-lasting sweetness.
+🍰 {name}, here is a "Packet" cake. Delivered in bite-sized data chunks.
+🍰 One "APRS" cake for {name}. I tracked this flour from the mill to the oven.
+🍰 {name}, here is a "High-Pass" cake. All the burnt bits have been filtered.
+🍰 A "Low-Pass" cake for {name}. Only the deep, rich flavors remain.
+🍰 {name}, here is a "Band-Pass" cake. Perfectly tuned to your sweet tooth.
+🍰 One "Notch Filter" cake for {name}. I’ve removed the one ingredient you dislike.
+🍰 {name}, here is an "All-Mode" cake. AM, FM, or SSB—it tastes great.
+🍰 A "QRP" cupcake for {name}. Small size, but packs a flavorful punch.
+🍰 {name}, here is a "QRO" cake. Extra-large with 1500 watts of frosting!
+🍰 One "Single Sideband" cake for {name}. A very efficient use of ingredients.
+🍰 {name}, here is a "Double Sideband" cake. Twice the jam, twice the fun!
+🍰 A "Amplitude Modulated" cake for {name}. A vintage 1920s recipe.
+🍰 {name}, here is a "Frequency Modulated" cake. Wide-band deliciousness.
+🍰 One "Phase Modulated" cake for {name}. A complex and shifting flavor profile.
+🍰 {name}, here is a "Polarized" cake. Best viewed through a glass of milk.
+🍰 A "Ground Plane" cake for {name}. Perfectly flat and very stable.
+🍰 {name}, here is a "Yagi" cake. Highly directional sweetness.
+🍰 One "Dipole" cake for {name}. A balanced snack for a balanced life.
+🍰 {name}, here is a "G5RV" cake. It works on all hunger levels.
+🍰 A "End-Fed" cake for {name}. Simple design, great execution.
+🍰 {name}, here is a "Beverage" cake. It’s a very long, thin rectangular slice.
+🍰 One "Rhombic" cake for {name}. High gain, high crunch.
+🍰 {name}, here is a "Sloper" cake. An angled approach to dessert.
+🍰 A "Windom" cake for {name}. Off-center but perfectly baked.
+🍰 {name}, here is a "Zepp" cake. A classic design for modern appetites.
+🍰 One "Varactor" cake for {name}. The frosting thickness varies with the temperature.
+🍰 {name}, here is a "Zener" cake. Keeps your blood sugar regulated.
+🍰 A "Schottky" cake for {name}. Low voltage drop during consumption.
+🍰 {name}, here is a "Darlington" cake. Two cakes stacked for maximum gain!
+🍰 One "Pentode" cake for {name}. Five layers of deliciousness.
+🍰 {name}, here is a "Triode" cake. Warm, glowing, and nostalgic.
+🍰 A "Klystron" cake for {name}. High-velocity flavor particles!
+🍰 {name}, here is a "Magnetron" cake. It’ll heat your palate up instantly.
+🍰 One "Waveguide" cake for {name}. Directs the sugar straight to the tongue.
+🍰 {name}, here is a "Coaxial" cake. Shielded from outside crumbs.
+🍰 A "Twin-Lead" cake for {name}. A bit of a throwback, but classic.
+🍰 {name}, here is a "Ferrite" cake. Suppresses any bitter aftertaste.
+🍰 One "Toroid" cake for {name}. The frosting just loops forever.
+🍰 {name}, here is a "Capacitor" cake. Stores a burst of sugar for later.
+🍰 A "Inductor" cake for {name}. Resists any drop in your energy.
+🍰 {name}, here is a "Resistor" cake. Limits the flow of bad moods.
+🍰 One "Transformer" cake for {name}. Steps up your energy levels.
+🍰 {name}, here is a "Relay" cake. You'll hear the fork click against the plate.
+🍰 A "Solenoid" cake for {name}. A mechanical marvel of a dessert.
+🍰 {name}, here is a "Crystal" cake. Extremely stable flavor frequency.
+🍰 One "VFO" cake for {name}. Dial in the exact texture you want.
+🍰 {name}, here is a "PLL" cake. Locked onto the perfect sweetness.
+🍰 A "ALC" cake for {name}. Prevents your appetite from clipping.
+🍰 {name}, here is an "AGC" cake. Automatically stays at the right level.
+🍰 One "S-Meter" cake for {name}. Pegged at 9 plus 30dB of deliciousness!
+🍰 {name}, here is a "Noise Blanker" cake. Shuts out the world's distractions.
+🍰 A "Pre-Amp" cake for {name}. Boosts your afternoon signal.
+🍰 {name}, here is an "Attenuator" cake. For when you just want a light nibble.
+🍰 One "Panadapter" cake for {name}. See the whole spectrum of sweets.
+🍰 {name}, here is a "Waterfall" cake. Watch the icing fall down the sides.
+🍰 A "Superhet" cake for {name}. Mixes perfectly for an IF of flavor.
+🍰 {name}, here is a "Direct Conversion" cake. Straight from the oven to you.
+🍰 One "SDR" cake for {name}. Software-defined, Raspberry-Pi-refined.
+🍰 {name}, here is a "Firmware" cake. Keeps your internal systems running.
+🍰 A "Open Source" cake for {name}. Free for everyone to enjoy!
+🍰 {name}, here is a final "73" cake. Best wishes and clear frequencies.

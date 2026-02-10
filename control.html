@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jukebox Control</title>
+    <style>
+        body{background:#111;color:#0f0;font-family:monospace;padding:20px;}
+        #header{background:#000;padding:20px;border:1px solid #333;margin-bottom:20px;display:flex;gap:10px;align-items:center;}
+        input{background:#111;border:1px solid #0f0;color:#0f0;padding:8px;}
+        button{background:#0f0;color:#000;border:none;padding:8px 15px;cursor:pointer;font-weight:bold;}
+        .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:15px;}
+        .card{border:1px solid #333;padding:8px;cursor:pointer;background:#000;text-align:center;font-size:11px; transition: transform 0.1s;}
+        .card:active{transform: scale(0.95);}
+        .card img{width:100%;aspect-ratio:16/9;object-fit:cover;margin-bottom:8px;}
+    </style>
+</head>
+<body>
+    <div id="header">
+        CALLSIGN: <input type="text" id="callsign">
+        <button onclick="load()">REFRESH</button>
+    </div>
+    <div id="grid" class="grid"></div>
+
+    <script>
+        const callInput = document.getElementById('callsign');
+        callInput.value = document.cookie.replace(/(?:(?:^|.*;\s*)callsign\s*=\s*([^;]*).*$)|^.*$/, "$1") || "";
+        callInput.oninput = () => { document.cookie = "callsign=" + callInput.value + ";max-age=31536000;path=/"; };
+
+        async function load() {
+            try {
+                const grid = document.getElementById('grid');
+                const response = await fetch('/api/list');
+                const files = await response.json();
+
+                // 1. Remove elements that are no longer in the list
+                const existingCards = Array.from(grid.children);
+                if (existingCards.length > files.length) {
+                    for (let i = existingCards.length - 1; i >= files.length; i--) {
+                        grid.removeChild(existingCards[i]);
+                    }
+                }
+
+                // 2. Step through the list and update or add
+                files.forEach((f, i) => {
+                    const ytId = f.match(/\[(.*?)\]/)?.[1];
+                    const thumbSrc = ytId 
+                        ? "https://img.youtube.com/vi/" + ytId + "/mqdefault.jpg" 
+                        : "/thumbs/" + encodeURIComponent(f.split('.').slice(0, -1).join('.') + '.png');
+
+                    let displayName = f.substring(0, f.lastIndexOf('.')) || f;
+                    displayName = displayName.replace(/\[.*?\]/g, '').trim();
+                    const fullLabel = `[${i + 1}] ${displayName}`;
+
+                    let card = grid.children[i];
+
+                    if (!card) {
+                        // Addition: Create new card if it doesn't exist at this index
+                        card = document.createElement('div');
+                        card.className = 'card';
+                        card.innerHTML = `<img src="${thumbSrc}"><div>${fullLabel}</div>`;
+                        card.onclick = () => fetch(`/api/play?id=${i + 1}&user=${encodeURIComponent(callInput.value || 'Guest')}`);
+                        grid.appendChild(card);
+                    } else {
+                        // Check for changes to avoid flickering
+                        const img = card.querySelector('img');
+                        const label = card.querySelector('div');
+
+                        if (img.src !== thumbSrc) img.src = thumbSrc;
+                        if (label.textContent !== fullLabel) {
+                            label.textContent = fullLabel;
+                            // Update the click handler since the ID (index) might have changed
+                            card.onclick = () => fetch(`/api/play?id=${i + 1}&user=${encodeURIComponent(callInput.value || 'Guest')}`);
+                        }
+                    }
+                });
+            } catch (e) {
+                console.error("Load error:", e);
+            }
+        }
+        
+        load();
+        setInterval(load, 60000);
+    </script>
+</body>
+</html>

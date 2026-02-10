@@ -1,0 +1,100 @@
+🍔 JukeboxBot flips a fresh Cheeseburger for {name}. Perfectly grilled transistors!
+🍔 {name}, here is a 'Quarter-Wavelength' Pounder. A classic shack staple.
+🍔 A juicy Bacon Burger for {name}. High-gain flavor for a long night of DX.
+🍔 {name}, your virtual Veggie Burger is ready. Eco-friendly and QRP-approved.
+🍔 One 'Double-Stack' for {name}. Twice the beef, twice the signal strength!
+🍔 {name} gets a Mushroom Swiss burger. Smooth as a well-oiled tuning knob.
+🍔 JukeboxBot slides a virtual Chili Burger down the bar to {name}. It's got some kick!
+🍔 {name}, here is a BBQ Western burger. Topped with a crispy onion ring antenna.
+🍔 A 'Blue Cheese' burger for {name}. For those who like a little funk in the waterfall.
+🍔 {name}, here is a Sliders plate. Small, bite-sized data packets of flavor.
+🍔 {name}, I’ve prepared a Breakfast Burger. Egg and hashbrowns for the morning grey-line.
+🍔 A fresh platter of burgers for {name} and the whole chat!
+🍔 {name}, your virtual meal is served on a shiny aluminum chassis.
+🍔 {name}, I added some spicy habanero sauce. Warning: High thermal dissipation!
+🍔 One Hawaiian Burger for {name}. Pineapple for that tropical ducting feel.
+🍔 {name}, here is a 'Kernel Burger'—the core of a balanced lunch.
+🍔 A virtual Teriyaki Burger for {name}. Sweet, savory, and stable.
+🍔 {name}, here is a 'Super-Sized' meal. Maxing out the power supply!
+🍔 JukeboxBot presents {name} with a 'Silicon-Patty.' 0% bitterness, 100% satisfaction.
+🍔 {name}, a fresh flame-grilled burger for you. Very artisanal.
+🍔 {name}, here is a Turkey Burger. A lighter alternative for the health-conscious ham.
+🍔 {name}, a 'Supreme' burger with everything. It covers all the bands.
+🍔 One 'Vertical' burger for {name}. Best eaten while standing at the workbench.
+🍔 {name}, here is a 'Magnetic Loop' burger. Compact and highly efficient.
+🍔 One 'Log Periodic' burger for {name}. A wide variety of toppings in every bite.
+🍔 {name}, here is a 'Dummy Load' burger. All the texture, zero calories.
+🍔 A burger for {name} cooked in a 'Heaviside' broiler. Perfectly seared!
+🍔 {name}, here is a 'Tropospheric' burger. Very light and fluffy bun.
+🍔 One 'Meteor Scatter' burger for {name}. Eat it quick before the signal fades!
+🍔 {name}, here is a 'Moonbounce' burger. It took 2.5 seconds to flip.
+🍔 A 'Satellite' burger for {name}. Out of this world!
+🍔 {name}, here is a 'D-Star' burger. Digital, crisp, and perfectly assembled.
+🍔 One 'DMR' burger for {name}. Time-slotted for your lunch break.
+🍔 {name}, here is a 'CW' burger. - .- ... - -.-- (Tasty!)
+🍔 A 'FT8' burger for {name}. Grilled in exactly 15 seconds.
+🍔 {name}, here is a 'RTTY' burger. It has a rhythmic, mechanical crunch.
+🍔 One 'SSTV' burger for {name}. The toppings reveal themselves layer-by-line.
+🍔 {name}, here is a 'JS8Call' burger. Slow-cooked for long-distance digestion.
+🍔 A 'WSPR' burger for {name}. Low energy, long-lasting satiety.
+🍔 {name}, here is a 'Packet' burger. Best enjoyed in small, byte-sized bites.
+🍔 One 'APRS' burger for {name}. I’ve tracked this delivery from the grill to you.
+🍔 {name}, here is a 'High-Pass' burger. I filtered out all the pickles.
+🍔 A 'Low-Pass' burger for {name}. Only the deep, smoky flavors remain.
+🍔 {name}, here is a 'Band-Pass' burger. Perfectly tuned to your hunger.
+🍔 One 'Notch Filter' burger for {name}. I’ve removed the one topping you dislike.
+🍔 {name}, here is an 'All-Mode' burger. AM, FM, or SSB—it tastes great in all of them.
+🍔 A 'QRP' burger for {name}. Small size, but packs a flavorful punch.
+🍔 {name}, here is a 'QRO' burger. Extra-large with 1500 watts of seasoning!
+🍔 One 'Single Sideband' burger for {name}. A very efficient use of ingredients.
+🍔 {name}, here is a 'Double Sideband' burger. Twice the patties, twice the fun!
+🍔 A 'Amplitude Modulated' burger for {name}. A vintage 1920s recipe.
+🍔 {name}, here is a 'Frequency Modulated' burger. Wide-band deliciousness.
+🍔 One 'Phase Modulated' burger for {name}. A complex and shifting flavor profile.
+🍔 {name}, here is a 'Polarized' burger. Best eaten while wearing your station headset.
+🍔 A 'Ground Plane' burger for {name}. Perfectly flat and very stable.
+🍔 {name}, here is a 'Yagi' burger. Highly directional flavor.
+🍔 One 'Dipole' burger for {name}. A balanced meal for a balanced life.
+🍔 {name}, here is a 'G5RV' burger. It works on all hunger levels.
+🍔 A 'End-Fed' burger for {name}. Simple design, great execution.
+🍔 {name}, here is a 'Beverage' burger. It’s an extra-long sub-style burger.
+🍔 One 'Rhombic' burger for {name}. High gain, high crunch.
+🍔 {name}, here is a 'Sloper' burger. An angled approach to lunch.
+🍔 A 'Windom' burger for {name}. Off-center but perfectly grilled.
+🍔 {name}, here is a 'Zepp' burger. A classic design for modern appetites.
+🍔 One 'Varactor' burger for {name}. The bun thickness varies with the temperature.
+🍔 {name}, here is a 'Zener' burger. Keeps your energy levels regulated.
+🍔 A 'Schottky' burger for {name}. Low voltage drop during consumption.
+🍔 {name}, here is a 'Darlington' burger. Two patties joined for maximum gain!
+🍔 One 'Pentode' burger for {name}. Five layers of delicious toppings.
+🍔 {name}, here is a 'Triode' burger. Warm, glowing, and nostalgic.
+🍔 A 'Klystron' burger for {name}. High-velocity flavor particles!
+🍔 {name}, here is a 'Magnetron' burger. It’ll heat your palate up instantly.
+🍔 One 'Waveguide' burger for {name}. Directs the sauce straight to the tongue.
+🍔 {name}, here is a 'Coaxial' burger. Shielded from outside crumbs.
+🍔 A 'Twin-Lead' burger for {name}. A bit of a throwback, but classic.
+🍔 {name}, here is a 'Ferrite' burger. Suppresses any bitter aftertaste.
+🍔 One 'Toroid' burger for {name}. The flavor just loops forever.
+🍔 {name}, here is a 'Capacitor' burger. Stores a burst of energy for later.
+🍔 A 'Inductor' burger for {name}. Resists any drop in your mood.
+🍔 {name}, here is a 'Resistor' burger. Limits the flow of bad vibes.
+🍔 One 'Transformer' burger for {name}. Steps up your energy levels.
+🍔 {name}, here is a 'Relay' burger. You'll hear the wrapper click open.
+🍔 A 'Solenoid' burger for {name}. A mechanical marvel of a meal.
+🍔 {name}, here is a 'Crystal' burger. Extremely stable flavor frequency.
+🍔 One 'VFO' burger for {name}. Dial in the exact toppings you want.
+🍔 {name}, here is a 'PLL' burger. Locked onto the perfect temperature.
+🍔 A 'ALC' burger for {name}. Prevents your appetite from clipping.
+🍔 {name}, here is an 'AGC' burger. Automatically stays at the right level.
+🍔 One 'S-Meter' burger for {name}. Pegged at 9 plus 30dB of deliciousness!
+🍔 {name}, here is a 'Noise Blanker' burger. Shuts out the world's distractions.
+🍔 A 'Pre-Amp' burger for {name}. Boosts your afternoon signal.
+🍔 {name}, here is an 'Attenuator' burger. For when you just want a light slider.
+🍔 One 'Panadapter' burger for {name}. See the whole spectrum of condiments.
+🍔 {name}, here is a 'Waterfall' burger. Watch the cheese melt down the sides.
+🍔 A 'Superhet' burger for {name}. Mixes perfectly for an IF of flavor.
+🍔 {name}, here is a 'Direct Conversion' burger. Straight from the grill to you.
+🍔 One 'SDR' burger for {name}. Software-defined, Raspberry-Pi-refined.
+🍔 {name}, here is a 'Firmware' burger. Keeps your internal systems running.
+🍔 A 'Open Source' burger for {name}. Shared with everyone in the chat!
+🍔 {name}, here is a final '73' burger. Best wishes and clear frequencies.

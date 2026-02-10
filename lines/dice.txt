@@ -1,0 +1,100 @@
+🎲 {name} rolls the dice and gets a **1**! Ouch.
+🎲 {name} rolls the dice and gets a **2**.
+🎲 {name} rolls the dice and gets a **3**.
+🎲 {name} rolls the dice and gets a **4**.
+🎲 {name} rolls the dice and gets a **5**.
+🎲 {name} rolls the dice and gets a **6**! Nice roll!
+🎲 {name} throws the virtual bones... it's a **1**.
+🎲 {name} throws the virtual bones... it's a **2**.
+🎲 {name} throws the virtual bones... it's a **3**.
+🎲 {name} throws the virtual bones... it's a **4**.
+🎲 {name} throws the virtual bones... it's a **5**.
+🎲 {name} throws the virtual bones... it's a **6**.
+🎲 Snake eyes for {name}! A total of **2**.
+🎲 {name} rolled a **3**. (1+2)
+🎲 {name} rolled a **4**. (2+2)
+🎲 {name} rolled a **5**. (3+2)
+🎲 {name} rolled a **6**. (3+3)
+🎲 {name} rolled a **7**. The lucky number!
+🎲 {name} rolled an **8**. (4+4)
+🎲 {name} rolled a **9**. (5+4)
+🎲 {name} rolled a **10**. (5+5)
+🎲 {name} rolled an **11**.
+🎲 Boxcars for {name}! A total of **12**.
+🎲 {name} gets a **1**. Critical fail!
+🎲 {name} gets a **6**. Critical success!
+🎲 {name}, the random number generator says: **2**.
+🎲 {name}, the random number generator says: **5**.
+🎲 {name}, the random number generator says: **4**.
+🎲 JukeboxBot watches the dice tumble for {name}... it's a **3**!
+🎲 JukeboxBot watches the dice tumble for {name}... it's a **6**!
+🎲 {name} rolls a **1**. Low power mode.
+🎲 {name} rolls a **6**. Full gain!
+🎲 {name}, you rolled a **5**. High resonance!
+🎲 {name}, you rolled a **2**. High SWR.
+🎲 {name} rolls a **4**. Solid copy.
+🎲 {name} rolls a **3**. Signal fading.
+🎲 A virtual D6 lands on **1** for {name}.
+🎲 A virtual D6 lands on **2** for {name}.
+🎲 A virtual D6 lands on **3** for {name}.
+🎲 A virtual D6 lands on **4** for {name}.
+🎲 A virtual D6 lands on **5** for {name}.
+🎲 A virtual D6 lands on **6** for {name}.
+🎲 {name} gets a **1**. Better luck next frame.
+🎲 {name} gets a **6**. 5/9 signal report!
+🎲 {name} gets a **4**. 73 from the dice.
+🎲 {name}, the dice landed on **3**.
+🎲 {name}, the dice landed on **2**.
+🎲 {name}, the dice landed on **5**.
+🎲 The dice stop spinning for {name}... it's a **1**.
+🎲 The dice stop spinning for {name}... it's a **6**.
+🎲 {name} rolls a **2**. Check your connections.
+🎲 {name} rolls a **4**. Transmission clear.
+🎲 {name} rolls a **5**. Band is opening up!
+🎲 {name} rolls a **3**. QRM detected.
+🎲 {name}, you got a **1**. Signal lost.
+🎲 {name}, you got a **6**. Breaking through the pileup!
+🎲 JukeboxBot calculates {name}'s roll: **4**.
+🎲 JukeboxBot calculates {name}'s roll: **2**.
+🎲 JukeboxBot calculates {name}'s roll: **5**.
+🎲 {name} tosses the dice... **1**.
+🎲 {name} tosses the dice... **6**.
+🎲 {name} tosses the dice... **3**.
+🎲 {name} tosses the dice... **4**.
+🎲 {name} tosses the dice... **2**.
+🎲 {name} tosses the dice... **5**.
+🎲 {name}, the dice results in a **1**.
+🎲 {name}, the dice results in a **6**.
+🎲 {name}, the dice results in a **4**.
+🎲 {name}, the dice results in a **2**.
+🎲 {name}, the dice results in a **5**.
+🎲 {name}, the dice results in a **3**.
+🎲 {name} rolls a **1**. Noise floor is high.
+🎲 {name} rolls a **6**. Signal is 20 over 9!
+🎲 {name} rolls a **4**. Good audio quality.
+🎲 {name} rolls a **2**. Too much splatter.
+🎲 {name} rolls a **5**. Strong carrier.
+🎲 {name} rolls a **3**. Audio is a bit thin.
+🎲 {name} gets a **1**. Packet dropped.
+🎲 {name} gets a **6**. 100% throughput.
+🎲 {name} gets a **4**. Latency is low.
+🎲 {name} gets a **2**. Buffer underrun.
+🎲 {name} gets a **5**. Cache hit!
+🎲 {name} gets a **3**. Parity error.
+🎲 {name}, the dice show **1**. Reset required.
+🎲 {name}, the dice show **6**. System optimized.
+🎲 {name}, the dice show **4**. Logic is sound.
+🎲 {name}, the dice show **2**. Syntax error.
+🎲 {name}, the dice show **5**. High bit-rate.
+🎲 {name}, the dice show **3**. Frame skip.
+🎲 {name} rolls a **1**. The dummy load is hot.
+🎲 {name} rolls a **6**. The antenna is tuned!
+🎲 {name} rolls a **4**. DX is possible.
+🎲 {name} rolls a **2**. Local skip only.
+🎲 {name} rolls a **5**. Transatlantic path open!
+🎲 {name} rolls a **3**. Magnetic storm active.
+🎲 {name}, you rolled a **1**. Battery low.
+🎲 {name}, you rolled a **6**. Powering from the grid!
+🎲 {name}, you rolled a **4**. All systems nominal.
+🎲 {name}, you rolled a **2**. Check the fuse.
+🎲 {name}, you rolled a **5**. Voltage is stable.

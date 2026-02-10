@@ -1,0 +1,100 @@
+📶 S9+40. You're coming in like a local station.
+📈 S7 with a side of bacon (heavy static).
+📶 S5. I can hear you, but the atmospheric noise is winning.
+📡 S9. Your audio is crisp, but your frequency is drifting.
+📶 S3. You're deep in the mud, OM.
+📡 S8. Nice signal, but tell your neighbor to turn off their plasma TV.
+📈 S6. I'm picking up your second harmonic better than your fundamental.
+📉 S9+10. Solid copy through the pileup.
+📈 S1. I see your carrier on the waterfall, but I can't decode a thing.
+📈 S9. Great audio, but you've got some AC hum on that line.
+📉 S7. The skip is rolling in; you're fading fast.
+📶 S4. Sounds like you're broadcasting through a wet noodle.
+📉 S9+20. You're pinning my meter!
+📉 S5. There's a heterodyne right on top of you.
+📉 S8. Ground wave is strong today.
+📡 S2. Just a whisper in the static.
+📡 S9. Whatever you're using for an antenna, it's working.
+📡 S6. Your signal is "yo-yoing" with the solar flare.
+📶 S9+60. Please turn down the gain before you melt my front end.
+📶 S7. Catching some multipath distortion on your peaks.
+📉 S3. You're barely above the noise floor.
+📉 S9. Rock solid. No drift detected.
+📉 S5. Getting some ignition noise from a passing car.
+📈 S8. Your modulation is a bit low, but the carrier is strong.
+📡 S9. You're the loudest thing on the band right now.
+📡 S4. Propagation is poor, but I've got a 4x4 copy on you.
+📡 S7. A bit of QSB, but still 100% readable.
+📡 S9+15. You're punching through the QRM like a champ.
+📈 S6. Sounds like you're off-frequency by about 50Hz.
+📡 S1. Total "picket fencing" on the signal.
+📡 S9. Crystal clear. 599.
+📡 S5. Too much solar noise for a clean copy.
+📶 S8. I can hear your cooling fan through the mic!
+📡 S4. You're competing with a Russian Woodpecker.
+📉 S9+30. What are you running? A kilowatt?
+📈 S7. Great signal, but watch your clipping.
+📈 S3. I'm getting bits and pieces. Try again.
+📉 S9. You're dominating this frequency.
+📉 S6. Atmospheric QRN is making this difficult.
+📶 S2. You're just a ghost in the machine.
+📈 S8. Solid signal. Are you on a beam antenna?
+📡 S9+5. Perfect copy. 5/5.
+📡 S5. Your audio is a bit "tinny." Check your EQ.
+📶 S7. I'm getting some cross-talk from a nearby digital mode.
+📈 S4. You're losing out to the 60Hz hum.
+📶 S9. Like you're sitting in the room with me.
+📡 S6. A bit of "fuzz" on the edges of the signal.
+📶 S3. You're drowning in the aurora borealis.
+📡 S8. Good punchy audio for the conditions.
+📈 S9+25. I'm going to need an attenuator for you!
+📶 S5. You're fading in and out of the noise.
+📡 S7. I can hear the neighbor's mower through your window.
+📈 S4. Your signal is "watery." Check your oscillator.
+📉 S9. Strong and stable.
+📉 S6. I'm getting some "chirp" on your key-down.
+📈 S2. Might as well be Morse code at this level.
+📶 S8. Clear, but you've got some splatter.
+📉 S9+10. Excellent signal-to-noise ratio.
+📡 S5. The band is closing, but I've still got you.
+📡 S7. Your signal is bouncing off the moon today.
+📡 S4. You're a bit muffled. Move closer to the mic.
+📈 S9. 5 by 9. No complaints.
+📉 S6. Catching some weird echoes on your transmission.
+📈 S3. You're a "one" on the readability scale.
+📈 S8. Very respectable signal for a QRP rig.
+📉 S9+50. Stop it. You're scaring my cat.
+📉 S5. I'm hearing your TV in the background.
+📈 S7. Good audio, but your carrier is a bit wide.
+📈 S4. You're buried in the 40-meter mess.
+📶 S9. You're the King of the Band today.
+📈 S6. Signal is "pumping" with your compressor.
+📈 S2. I think you're transmitting into a dummy load.
+📡 S8. 73 to you, OM. Great signal.
+📶 S9+5. Loud and proud.
+📉 S5. There's a digital screech right next to you.
+📈 S7. You're cutting through the static nicely.
+📈 S3. I can tell someone is talking, but that's it.
+📉 S9. Solid 59 report.
+📉 S6. A little bit of frequency warble.
+📈 S1. The noise floor has swallowed you whole.
+📡 S8. Coming through the "gray line" perfectly.
+📈 S9+20. You're making my speakers vibrate.
+📉 S5. Getting some lightning crashes on the signal.
+📈 S7. Clear copy. No issues.
+📡 S4. You're drifting up-frequency.
+📈 S9. Your signal is a benchmark for quality.
+📶 S6. I can hear your power supply whining.
+📉 S2. You're a needle in a haystack.
+📶 S8. Nice, warm tube-sound on that signal.
+📡 S9+15. You're definitely over-modulating a bit.
+📡 S5. I'm catching your skip from three states away.
+📉 S7. The ionosphere likes you today.
+📶 S4. Too much QRN. Try a different band.
+📈 S9. 100% readability.
+📉 S6. You're slightly "off-mic."
+📶 S3. Just a trace of a signal.
+📡 S8. Punchy audio. Great for DX.
+📶 S9+45. Are you broadcasting from inside the antenna?
+📶 S5. A bit of a "hiss" in the background.
+📡 S7. Strong enough for a casual chat.

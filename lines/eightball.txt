@@ -1,0 +1,109 @@
+🎱 01011001 (YES)
+❓ Outlook blurry, try rebooting.
+🎱 Packet lost in transit. Ask again.
+🎱 Error 500: Internal Oracle Error.
+❓ The bits say NO.
+🌀 My logic circuits say YES.
+🎱 Response timed out.
+🔮 The database is empty.
+🔮 Access Denied.
+🌀 The ionosphere says yes.
+🔮 Signal is too weak, ask again later.
+🔮 Negative copy on that, try again.
+🔮 Signs point to a solid S9.
+❓ My crystal oscillator is foggy.
+❓ Concentrate and retune your VFO.
+🎱 Without a doubt, OM.
+🎱 Outlook is noisy.
+🎱 As I see it, 5/9.
+❓ Most likely, if the skip holds.
+❓ Reply hazy, try shifting frequency.
+🔮 Better not tell you now, QRM is heavy.
+🔮 Cannot predict now, solar flare in progress.
+🔮 Don't bet your best tubes on it.
+🎱 My sources say negative.
+❓ The bands are closed for that.
+🎱 Outlook not so good.
+🎱 Very doubtful, signal is in the mud.
+🌀 Absolutely, clear as a bell.
+🌀 The antenna is pointing the wrong way.
+❓ Wait for the gray line.
+🎱 Ask me during the next solar cycle.
+❓ The answer is buried in the static.
+🔮 Confirmed. 73.
+❓ It is certain, like a 50-ohm match.
+❓ You can count on it, like a quartz clock.
+🌀 As far as the repeater reaches: Yes.
+🔮 Maybe. Let me check the SWR.
+🌀 The S-meter is pinned at YES.
+🎱 The S-meter is dropping to NO.
+❓ Chances are 50/50, like a dipole.
+🌀 The dummy load says no.
+🌀 Yes, but check your grounding first.
+❓ Ask again after coffee.
+🔮 The CPU says 0x01 (True).
+🔮 The CPU says 0x00 (False).
+❓ The relay is stuck on "Maybe."
+🔮 Transmission successful: Yes.
+🌀 Transmission failed: No.
+❓ My filter is blocking that answer.
+🎱 It’s a definite 599.
+🎱 No, and don't QSL that.
+🌀 The answer is blowing in the solar wind.
+❓ Only if you use a linear amp.
+🎱 Yes, but watch your harmonics.
+❓ My magic vacuum tube says yes.
+🌀 The answer is oscillating.
+❓ Input buffer empty. Try again.
+🌀 The parity bit is wrong. No.
+🔮 Signs point to a blown fuse.
+❓ Yes, in glorious AM.
+🌀 No, the squelch is too high.
+🔮 If you have the gain up, yes.
+🎱 Negative ghost rider.
+🎱 The pattern is full: No.
+🌀 100% yes.
+🌀 The flux is low. Ask later.
+🎱 The answer is hidden in the sideband.
+🎱 The answer is encrypted.
+🌀 Outlook: S1.
+❓ It is decidedly so.
+🎱 The capacitor is charging... Yes.
+🔮 The capacitor is leaking... No.
+🌀 Ask the local HAM club.
+🔮 The repeater timed out. No.
+🔮 Yes, but only on 160 meters.
+🎱 The answer is a harmonic of "No."
+🎱 Definitely, if you have a beam antenna.
+🌀 The skip is too long for that answer.
+🔮 The skip is too short for that answer.
+🔮 Ask the guy on the other end.
+❓ Confirmed via LoTW.
+❓ Rejected by the logbook.
+❓ Yes, and tell everyone on the net.
+❓ The spectrum analyzer says no.
+🔮 The waterfall shows a yes.
+🔮 My logic gates are locked.
+🌀 Error 404: Answer not found.
+❓ It is written in the logs.
+🌀 The answer is a bit-shift away.
+🔮 Yes, but keep it brief.
+🔮 The frequency is busy.
+🌀 Wait for the next pass.
+🌀 The satellite says yes.
+🎱 The satellite is out of range.
+🌀 Yes, according to the manual.
+❓ The manual is missing page 42.
+🌀 My diode is biased towards yes.
+🌀 My diode is biased towards no.
+🌀 Ask the supervisor.
+🔮 The supervisor is at lunch.
+🎱 Yes, but it'll cost you a QSL card.
+🎱 No, and don't ask the computer again.
+🔮 The answer is drifting.
+🔮 Yes, 10-4.
+🌀 Negative, 10-10.
+🌀 The answer is in the manual.
+🔮 The answer is under the chassis.
+❓ Yes, but check the fuse.
+🎱 The answer is 42.

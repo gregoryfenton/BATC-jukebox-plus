@@ -1,0 +1,114 @@
+☕ I got bored so I spun the dial... it landed on: {title}
+🕰️ It was too quiet, so I picked this one for us: {title}
+🕰️ Rummaging through the archives... How about: {title}?
+🛋️ The wheel of fate has chosen: {title}
+🕰️ Randomizing the vibes... playing {title}!
+🕰️ Dusting off a classic: {title}
+☕ Spun the wheel and won: {title}
+🛋️ The Jukebox decided it's time for: {title}
+🛋️ Nobody was picking, so I took the lead: {title}
+🕰️ Surprise! I've selected: {title}
+💤 Searching the digital crates... found {title}!
+🛋️ Let's see what happens when I press this button... it's {title}!
+💤 The machine is thinking... it wants to hear {title}.
+💤 Diving into the deep cuts: {title}
+🕰️ I'm feeling lucky! Today's choice: {title}
+🛋️ Spinning the VFO... landing on: {title}.
+💤 Scanning the airwaves... picking up: {title}.
+🛋️ The auto-dialer has spoken: {title} is now playing.
+☕ Searching the magnetic tapes... found: {title}.
+🛋️ Frequency clear. Tuning into: {title}.
+💤 Adjusting the tracking... {title} is coming in now.
+🛋️ The jukebox arm is moving... selecting {title}.
+☕ Bypassing the static to bring you: {title}.
+🛋️ The server picked a winner: {title}.
+☕ Let's see what's on the other side... it's {title}.
+🛋️ Dropping the needle on {title}.
+🕰️ Re-aligning the dish for: {title}.
+🛋️ Loading {title} into the buffer.
+🕰️ Wait, I like this one: {title}.
+☕ The RNG gods have chosen: {title}.
+💤 Switching channels to: {title}.
+🕰️ Tuning through the noise... {title} emerges.
+🛋️ Checking the archives... {title} is next.
+🕰️ The dial has landed on {title}.
+🛋️ Bringing {title} out of the vault.
+🕰️ Setting the frequency to {title}.
+☕ De-coding the signal for: {title}.
+🛋️ The relay clicked... now playing {title}.
+🛋️ Scanning... scanning... locked on to {title}.
+☕ Picking a random frequency... {title}.
+💤 A blast from the past: {title}.
+🛋️ Something new? No, it's {title}.
+💤 I found this in the bottom of a bin: {title}.
+☕ The "Shuffle" button chose {title}.
+💤 Let's try: {title}.
+🛋️ Auto-tune engaged: {title}.
+💤 Picking {title} from the pile.
+🕰️ Tossing {title} onto the stream.
+🕰️ The bot's choice: {title}.
+☕ Giving {title} some airtime.
+💤 {title} is rolling now.
+🛋️ Fading in: {title}.
+🕰️ Catching the tail end of the skip: {title}.
+🕰️ Broadcasting {title} to the world.
+☕ {title} is on the air.
+🛋️ Loading the playback for {title}.
+🕰️ Selected {title} for your enjoyment.
+☕ Tuning in {title}.
+☕ Launching {title}.
+☕ Spooling up {title}.
+🕰️ {title} is hitting the fan.
+🛋️ Let's see if {title} works.
+💤 Ready for {title}?
+💤 Here comes {title}.
+🕰️ Enjoy {title}.
+🛋️ The next track is {title}.
+🕰️ Moving on to {title}.
+☕ Refreshing with {title}.
+🛋️ Playing {title}.
+🕰️ Selecting {title}.
+🛋️ Starting {title}.
+🕰️ Opening {title}.
+🕰️ Running {title}.
+🕰️ Executing {title}.
+☕ Presenting {title}.
+💤 Displaying {title}.
+☕ Streaming {title}.
+💤 Rendering {title}.
+💤 Buffer full with {title}.
+🕰️ Locked and loaded: {title}.
+🛋️ Next up: {title}.
+🛋️ {title} is a solid choice.
+🛋️ I think {title} fits the mood.
+☕ Let's go with {title}.
+🛋️ {title} is the winner.
+🕰️ Pick of the litter: {title}.
+💤 Rotating to {title}.
+🛋️ Shifting to {title}.
+🛋️ Advancing to {title}.
+🕰️ Transitioning to {title}.
+🛋️ Queuing up {title}.
+🕰️ Inserting {title}.
+🛋️ Mounting {title}.
+💤 Syncing {title}.
+🕰️ Transmitting {title}.
+🛋️ Radiating {title}.
+🕰️ Beaming {title}.
+💤 Projecting {title}.
+💤 Screening {title}.
+💤 Viewing {title}.
+☕ Watching {title}.
+☕ Tuning {title}.
+☕ Hitting {title}.
+🛋️ Playing {title}.
+🛋️ Selected {title}.
+🛋️ Chose {title}.
+🛋️ Got {title}.
+☕ Found {title}.
+🕰️ Saw {title}.
+💤 Heard {title}.
+☕ Liked {title}.
+🕰️ Wanted {title}.
+🛋️ Needed {title}.
+🛋️ Playing {title}.

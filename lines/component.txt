@@ -1,0 +1,99 @@
+🛠️ JukeboxBot reaches into the junk box and hands {name} a 47k ohm resistor.
+🛠️ {name} found a rare germanium transistor! Perfect for a vintage fuzz circuit.
+🛠️ JukeboxBot tosses {name} a 100uF capacitor. Careful, it might still have a charge!
+🛠️ {name} pulls out a glowing Nixie tube. It shows the number '7'.
+🛠️ {name} found a handful of ferrite beads. Time to suppress some RFI!
+🛠️ JukeboxBot hands {name} a 555 timer. The possibilities are endless!
+🛠️ {name} digs deep and finds a genuine 1N4148 diode. A shack essential.
+🛠️ {name} pulls out a variable capacitor. "Time to build a crystal set!"
+🛠️ JukeboxBot hands {name} a 7805 voltage regulator. Stay steady!
+🛠️ {name} found a high-brightness blue LED. Don't look directly at it!
+🛠️ {name} pulls out a toroid core. "I hope you like winding wire!"
+🛠️ JukeboxBot hands {name} a 10-turn potentiometer. Precision control!
+🛠️ {name} finds a relay that clicks satisfyingly when you shake it.
+🛠️ {name} pulls out a ceramic disc capacitor. "103" – a classic 10nF.
+🛠️ JukeboxBot hands {name} an Arduino Nano. Time to automate the shack!
+🛠️ {name} found a BNC connector. Solid and reliable.
+🛠️ {name} pulls out a heat sink. "This looks like it could handle 100 watts!"
+🛠️ JukeboxBot hands {name} a bridge rectifier. AC to DC, coming right up.
+🛠️ {name} finds a tiny SMD component. "Where did I put my tweezers?"
+🛠️ {name} pulls out a vintage "Chicken-Head" knob for the VFO.
+🛠️ JukeboxBot hands {name} a piezoelectric buzzer. *Beep!*
+🛠️ {name} found a gold-plated DIP socket. Fancy!
+🛠️ {name} pulls out a length of heat-shrink tubing. "The secret to a neat shack."
+🛠️ JukeboxBot hands {name} a 16MHz crystal. Time to get in sync!
+🛠️ {name} found a toggle switch with a very firm 'click'.
+🛠️ {name} pulls out a photoresistor. "It’s sensitive to the stream's glow!"
+🛠️ JukeboxBot hands {name} a breadboard. "Let's prototype something!"
+🛠️ {name} finds a DB9 connector. A relic of the serial age.
+🛠️ {name} pulls out a 1-watt resistor. "It’s beefier than the rest!"
+🛠️ JukeboxBot hands {name} a rotary encoder. Spin it for some fun!
+🛠️ {name} found a trim-pot. "Just a tiny adjustment needed..."
+🛠️ {name} pulls out a logic gate IC. "AND, OR, or NOT?"
+🛠️ JukeboxBot hands {name} a cooling fan. "Keep those transistors happy!"
+🛠️ {name} found a copper-clad board. "Time for some PCB etching!"
+🛠️ {name} pulls out a 9V battery clip.
+🛠️ JukeboxBot hands {name} an Optoisolator. "Total isolation achieved!"
+🛠️ {name} found a handful of nylon spacers. "The unsung heroes of the rack."
+🛠️ {name} pulls out a solid-core jumper wire.
+🛠️ JukeboxBot hands {name} a MOSFET. "High speed, low resistance!"
+🛠️ {name} found a fuse. "Wait, is it blown? No, it's good!"
+🛠️ {name} pulls out a varistor. "Protection from the unexpected."
+🛠️ JukeboxBot hands {name} a shunt resistor. "Time to measure some current!"
+🛠️ {name} found a hall-effect sensor. "I can feel the magnetic fields!"
+🛠️ {name} pulls out a piece of Veroboard. "A classic construction method."
+🛠️ JukeboxBot hands {name} a 4-bit LCD module. "Hello World!"
+🛠️ {name} found a slide switch.
+🛠️ {name} pulls out an inductor. "It resists any change in the current."
+🛠️ JukeboxBot hands {name} a thermistor. "It’s getting warm in here!"
+🛠️ {name} found a Darlington pair. "High gain for everyone!"
+🛠️ {name} pulls out a Zener diode. "Clamping the voltage at 5.1V."
+🛠️ JukeboxBot hands {name} a piece of solder. "Smell that rosin!"
+🛠️ {name} found a desoldering pump. "The 'Solder-Sucker' of destiny!"
+🛠️ {name} pulls out a tiny microphone. "Is this thing on?"
+🛠️ JukeboxBot hands {name} a tilt switch. "Don't tip the jukebox!"
+🛠️ {name} found a Schottky diode. "Low voltage drop, high efficiency!"
+🛠️ {name} pulls out a breadboard power module.
+🛠️ JukeboxBot hands {name} a 10k thermistor.
+🛠️ {name} found a dip-switch. "Setting the station address..."
+🛠️ {name} pulls out a screw terminal block.
+🛠️ JukeboxBot hands {name} a laser diode. "Watch the beam!"
+🛠️ {name} found a magnetic reed switch.
+🛠️ {name} pulls out a handful of washers.
+🛠️ JukeboxBot hands {name} a triac. "Time for some AC control!"
+🛠️ {name} found a vintage carbon-composition resistor. "Noisy but nostalgic."
+🛠️ {name} pulls out a step-up converter.
+🛠️ JukeboxBot hands {name} a coil of magnet wire. "Time to wind an inductor!"
+🛠️ {name} found a banana plug. "The classic shack connection."
+🛠️ {name} pulls out an SMD LED. "It’s smaller than a grain of rice!"
+🛠️ JukeboxBot hands {name} a shift register. "Serial in, parallel out!"
+🛠️ {name} found a voltage-controlled oscillator.
+🛠️ {name} pulls out a tactile button. *Click click!*
+🛠️ JukeboxBot hands {name} a 0.1uF bypass capacitor. "Filtering out the noise."
+🛠️ {name} found a heatsink compound syringe. "Don't get it on your shirt!"
+🛠️ {name} pulls out a ferrite toroid.
+🛠️ JukeboxBot hands {name} a crocodile clip. "Quick and dirty connection!"
+🛠️ {name} found a level shifter.
+🛠️ {name} pulls out a 470uF electrolytic. "Watch the polarity!"
+🛠️ JukeboxBot hands {name} a 1-kohm resistor. "The workhorse of the bench."
+🛠️ {name} found a PCB mounting screw.
+🛠️ {name} pulls out a current sensor.
+🛠️ JukeboxBot hands {name} a buffer IC.
+🛠️ {name} found a jumper cap.
+🛠️ {name} pulls out a piece of desoldering wick.
+🛠️ JukeboxBot hands {name} a 2N3904 transistor. "A true general-purpose hero."
+🛠️ {name} found a trim-cap.
+🛠️ {name} pulls out a DC power jack.
+🛠️ JukeboxBot hands {name} a handful of standoffs.
+🛠️ {name} found a logic level converter.
+🛠️ {name} pulls out a linear voltage regulator.
+🛠️ JukeboxBot hands {name} a small spool of hookup wire.
+🛠️ {name} found a 22pF capacitor. "Perfect for a crystal oscillator."
+🛠️ {name} pulls out a piece of heat-shrink.
+🛠️ JukeboxBot hands {name} a 1N4007 diode. "The king of power rectifiers."
+🛠️ {name} found a 10uH inductor.
+🛠️ {name} pulls out a rare vintage 'Orange Drop' capacitor.
+🛠️ JukeboxBot hands {name} a handful of cable ties.
+🛠️ {name} found a 100-ohm resistor.
+🛠️ {name} pulls out a piece of copper tape. "Shielding everything!"
+🛠️ {name} found the final '73' component in the box. Clear frequencies ahead!

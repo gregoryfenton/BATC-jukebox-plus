@@ -1,0 +1,98 @@
+💡 JukeboxBot gently warms up the plates for {name}. The stream now has that vintage glow.
+💡 {name} replaced a gassy 6L6. The audio fidelity is now crystal clear!
+💡 {name} is waiting for the filaments to glow. High voltage is nearly ready.
+💡 JukeboxBot hands {name} a spare ECC83. "This one has the best harmonics!"
+💡 {name} is bias-adjusting the final stage. The stream is running in Class A today.
+💡 A soft orange glow fills the shack as {name} engages the power supply.
+💡 {name} is tapping the valves with a pencil to check for microphonics. 
+💡 {name} found a rare 'New Old Stock' Mullard valve in the junk box!
+💡 {name} is cleaning the valve pins. No more crackling on the transmission.
+💡 JukeboxBot watches as {name} monitors the blue glow of a mercury vapor rectifier.
+💡 {name} is checking the plate current. Watch out, those heat sinks are getting hot!
+💡 {name} just installed a matched pair of KT88s. Maximum power for the jukebox!
+💡 {name} is letting the rig warm up for 20 minutes to ensure frequency stability.
+💡 {name} just replaced a blown fuse in the high-tension supply. Back in business!
+💡 JukeboxBot presents {name} with a vintage 807 valve. A true radio classic.
+💡 {name} is adjusting the grid leak bias for a smoother signal.
+💡 {name} is admiring the beautiful glow of the 813 final amplifier.
+💡 {name} just swapped a transistor for a vacuum tube. "Digital is just an approximation!"
+💡 {name} is checking the cathode emission. Still plenty of life in those old tubes.
+💡 {name} is using a vintage valve tester. All needles are in the green!
+💡 {name} is winding a new output transformer for better impedance matching.
+💡 {name} just added a cooling fan. Those valves were starting to cook the shack!
+💡 {name} is checking the vacuum seal. No 'white getter' here!
+💡 {name} is polishing the brass chassis. The rig looks as good as it sounds.
+💡 {name} is adjusting the screen grid voltage for better linearity.
+💡 JukeboxBot assists {name} in replacing a microphonic preamp valve.
+💡 {name} is looking for the source of a 50Hz hum. Found it—bad heater insulation!
+💡 {name} just upgraded to 'Hollow State' logic. Very slow, but very warm.
+💡 {name} is measuring the transconductance. Perfect specs!
+💡 {name} is waiting for the rectifiers to kick in. Any second now...
+💡 {name} is checking the plate dissipation. Safe within the limits!
+💡 {name} just found a 'Magic Eye' tuning indicator. Look at it dance!
+💡 {name} is re-seating the valves after a long transport. 
+💡 {name} is adjusting the neutralising capacitor. No more parasitic oscillations!
+💡 {name} is checking the inter-electrode capacitance. 
+💡 {name} is looking at the glow of a VR150 voltage regulator. Steady as a rock.
+💡 {name} is installing a 'Slow Start' circuit to protect those precious filaments.
+💡 {name} just replaced a leaky wax capacitor. The bias is stable at last!
+💡 JukeboxBot gives {name} a pair of white gloves for handling the glass envelopes.
+💡 {name} is checking the anode load resistor. No signs of overheating.
+💡 {name} is using a variac to slowly bring the old rig back to life.
+💡 {name} just found a dual-triode for the phase inverter stage.
+💡 {name} is adjusting the feedback loop for that ultra-linear response.
+💡 {name} is checking the secondary windings. 6.3 Volts exactly!
+💡 {name} is looking for a replacement 5U4G. The shack is getting dim!
+💡 {name} just cleaned the valve sockets with some high-purity contact cleaner.
+💡 {name} is admiring the symmetry of a push-pull amplifier stage.
+💡 {name} is checking the 'B+' rail. 450 Volts of pure radio power!
+💡 {name} is installing a chimney for better convection cooling on the finals.
+💡 {name} is testing the 'Soft Clipping' characteristics of the new tube.
+💡 {name} just built a 'One-Valve Wonder' for the 40m band.
+💡 {name} is checking the heater-to-cathode voltage. No leaks found!
+💡 {name} is using a 'Breadboard' layout for a new valve oscillator.
+💡 {name} just replaced a 12AX7 with a 12AU7 for a bit less gain and more headroom.
+💡 {name} is checking the internal shielding of the pentode.
+💡 {name} is looking at the space-charge effect. Physics in action!
+💡 {name} just found a 'Nuvistor'—the tiny giant of the valve world.
+💡 {name} is adjusting the tank circuit. Resonance reached at 3kV!
+💡 {name} is checking the suppressor grid connection.
+💡 {name} just added a 'Plate Cap' for that high-voltage look.
+💡 {name} is monitoring the cathode stripping. Slow and steady warm-up!
+💡 {name} is checking the amplification factor. Mu is exactly as predicted.
+💡 {name} is looking for a 6V6 for the audio output stage.
+💡 {name} just replaced a solid-state bridge with a tube rectifier. "Hear that sag!"
+💡 {name} is adjusting the damping factor.
+💡 {name} is checking the 'Getter' flash. Still a perfect mirror.
+💡 {name} is using a 'Loctal' valve. It’s locked in for the long haul!
+💡 {name} just found a 'Cold Cathode' tube. No heater required!
+💡 {name} is checking the 'Dark Heater' technology. Efficient and quiet.
+💡 {name} is adjusting the 'Screen Dropping' resistor.
+💡 {name} just built a valve-based clock. Glowing time!
+💡 {name} is checking the 'Miller Effect' on the input stage.
+💡 {name} is looking for a 'Grid Cap' wire that fell off.
+💡 {name} just installed a 'Globe' style 201A. The 1920s are back!
+💡 {name} is checking the 'Mutual Conductance' on the tester.
+💡 {name} is adjusting the 'Output Coupling.'
+💡 {name} just found a 'Pencil Tube' for the UHF experiments.
+💡 {name} is checking the 'Intermodulation Distortion.' Smooth as silk.
+💡 {name} is looking at a 'Decatron' counting tube. Watch the dots spin!
+💡 {name} just added a 'Shield Can' to the sensitive preamp stage.
+💡 {name} is checking the 'Plate Resistance.'
+💡 {name} is adjusting the 'Bias Pot' with a non-conductive tool.
+💡 {name} just found a 'Thyratron' for some high-current switching.
+💡 {name} is checking the 'Secondary Emission.'
+💡 {name} is looking for a 'Top Cap' insulator.
+💡 {name} just installed a 'Rimlock' valve. Very European!
+💡 {name} is checking the 'Dynamic Range' of the valve receiver.
+💡 {name} is adjusting the 'Filament Rheostat.'
+💡 {name} just found a 'Water-Cooled' power tube. That's some serious power!
+💡 {name} is checking the 'Internal Arcing.' All quiet on the western front.
+💡 {name} is looking at a 'Nixie Tube.' A beautiful way to see numbers.
+💡 {name} just added a 'Grid Stopper' resistor to prevent oscillation.
+💡 {name} is checking the 'Total Harmonic Distortion.' Just enough for 'warmth.'
+💡 {name} is adjusting the 'Tuning Wand' inside the coil.
+💡 {name} just found a 'Ballast Tube' to keep the current steady.
+💡 {name} is checking the 'Phasing' of the heaters to reduce hum.
+💡 {name} is looking for a 'Bakelite' valve base.
+💡 {name} is sending a final '73' through the glowing final stage.

@@ -1,0 +1,104 @@
+💡 The first computer mouse was made of wood.
+💡 The Apollo 11 computer had less power than a toaster.
+🎓 In 1994, the first banner ad was clicked by someone confused.
+🧠 The 'bug' in computer science was a literal moth.
+💡 The first radio transmission traveled only a few meters.
+🎓 The Titanic had one of the most powerful radio sets of its time.
+🧠 Morse code is still used by pilots for identifying navigation beacons.
+📖 A radio wave travels at the speed of light.
+💡 The term 'HAM' originally was a pejorative term for poor operators.
+📖 The first transistor was about the size of a human palm.
+📖 WiFi uses the same frequency as your microwave oven (2.4 GHz).
+📖 GPS satellites have atomic clocks that must account for relativity.
+💡 The 'Voyager 1' spacecraft is still transmitting from interstellar space.
+🎓 The first mobile phone weighed 2.4 pounds.
+🧠 A 100-watt light bulb uses more power than many long-distance radio rigs.
+💡 The ionosphere is what makes long-distance AM radio possible at night.
+🎓 The first computer mouse was made of wood.
+🧠 The term 'bug' comes from a moth found in a Harvard Mark II computer.
+💡 Radio waves can be millions of meters long or less than a millimeter.
+🧠 The moon is used as a giant reflector for 'Moonbounce' radio.
+🧠 A 'Faraday Cage' blocks all incoming radio signals.
+🧠 The first text message ever sent said 'Merry Christmas'.
+💡 Bluetooth is named after a 10th-century Viking king.
+📖 The word 'robot' comes from a Czech word meaning 'forced labor'.
+🎓 The first webcam monitored a coffee pot at Cambridge University.
+📖 A single Google search uses more computing power than the Apollo missions.
+📖 There are more mobile phones on Earth than people.
+💡 The QWERTY keyboard was designed to prevent mechanical typewriter jams.
+💡 Domain names used to be free until 1995.
+🧠 The first hard drive held only 5MB of data.
+📖 The world's first website is still online.
+🎓 'Spam' email got its name from a Monty Python sketch.
+🎓 The first 1GB hard drive weighed 550 pounds.
+📖 The Apollo 11 guidance computer had less RAM than a modern calculator.
+🎓 Radio signals from Earth have traveled over 100 light-years into space.
+🧠 Sunspots affect radio propagation on Earth.
+📖 The first radio station was KDKA in Pittsburgh.
+🎓 AM stands for Amplitude Modulation.
+🧠 FM stands for Frequency Modulation.
+📖 Guglielmo Marconi is credited as the father of radio.
+💡 The first radio broadcast was music and poetry on Christmas Eve 1906.
+🧠 VHF stands for Very High Frequency.
+🎓 UHF stands for Ultra High Frequency.
+📖 The speed of light is roughly 300 million meters per second.
+🎓 The first digital computer was the ENIAC.
+💡 The first microprocessor was the Intel 4004.
+💡 The Linux kernel was written by Linus Torvalds in 1991.
+📖 The first Apple computer was sold for $666.66.
+🧠 Microsoft was originally spelled Micro-Soft.
+🎓 The first Android phone was the T-Mobile G1.
+🎓 A 'nibble' is four bits (half a byte).
+📖 The first computer game was 'Spacewar!' in 1962.
+🎓 The '@' symbol was chosen for email because it wasn't used in names.
+🎓 The first YouTube video was 'Me at the zoo'.
+📖 The first Tweet was 'just setting up my twttr'.
+🧠 The cloud is just someone else's computer.
+🧠 CAPTCHA stands for 'Completely Automated Public Turing test to tell Computers and Humans Apart'.
+💡 The first laptop was the Osborne 1.
+🧠 An iPad has more power than the fastest supercomputer of the 1980s.
+🧠 The deep web is much larger than the surface web.
+🧠 A 'pixel' is short for 'picture element'.
+📖 The first laser was built in 1960.
+🧠 Fiber optics use light to transmit data.
+💡 The first emoji was created in Japan in 1999.
+🧠 The 'D' in DVD originally stood for 'Digital'.
+🧠 The first commercial CD was ABBA's 'The Visitors'.
+🎓 The first MP3 player was the MPMan F10.
+📖 The first Kindle was released in 2007.
+💡 The first Nintendo console was the Famicom.
+💡 The first PlayStation was originally a Nintendo project.
+📖 The first Xbox was released in 2001.
+🧠 Tetris was created by a Russian scientist.
+🧠 Pac-Man was originally called Puck-Man.
+📖 The Konami Code is Up, Up, Down, Down, Left, Right, Left, Right, B, A.
+🧠 The first webcam was 128x128 pixels.
+💡 Python was named after Monty Python's Flying Circus.
+💡 The first 'Hello World' was written in C.
+📖 ASCII has 128 characters.
+📖 UTF-8 is the most common character encoding.
+🧠 The first laser printer was built by Xerox.
+🎓 The first inkjet printer was built by HP.
+📖 The first 3D printer was built in 1984.
+🧠 The first virtual reality headset was built in 1968.
+🧠 The first AI was a checkers program.
+🎓 Deep Blue beat Garry Kasparov in 1997.
+📖 AlphaGo beat Lee Sedol in 2016.
+📖 The Turing Test measures machine intelligence.
+📖 Moore's Law says transistors double every two years.
+🧠 Grace Hopper coined the term 'debugging'.
+📖 The first programmer was Ada Lovelace.
+💡 Steve Jobs was adopted.
+🧠 Bill Gates dropped out of Harvard.
+🎓 Mark Zuckerberg dropped out of Harvard.
+🧠 Jeff Bezos started Amazon in his garage.
+📖 Elon Musk co-founded PayPal.
+🎓 The first domain ever registered was symbolics.com.
+📖 The first search engine was Archie.
+💡 The first social network was SixDegrees.com.
+💡 The first blog was Links.net.
+📖 The first podcast was 'Daily Source Code'.
+💡 The first smartphone was the IBM Simon.
+📖 The first 4G network was launched in 2009.
+📖 The first 5G network was launched in 2019.
+📖 The binary system was invented by Leibniz.
